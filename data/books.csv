@@ -1,0 +1,601 @@
+book_id,title,author,genre,isbn,publisher,publication_year,copies_total,home_branch_id,has_ebook
+BK0001,The Midnight Signal,Karan Paul,Mystery,9783636739882,Lakeshore Books,2001,6,B05,True
+BK0002,The Hollow Orchard,Diya Paul,History,9787119184306,Lakeshore Books,2012,5,B03,False
+BK0003,The Endless Library,Joseph Sen,Mystery,9787483525145,Lakeshore Books,2006,8,B03,False
+BK0004,The Crimson Island,Aditya Ghosh,History,9785465226976,Meridian Publishing,2025,3,B04,True
+BK0005,The Silent Garden,Priya Patel,Mystery,9789851662883,Northwind Press,1999,8,B02,False
+BK0006,The Silent Island,Liam Ghosh,Mystery,9784112321463,Meridian Publishing,1992,3,B02,False
+BK0007,The Distant Season,Debasmita Banerjee,Science,9785276908306,Penrose House,2000,6,B02,False
+BK0008,The Distant Shadow,Farah Mehta,Science Fiction,9781192521004,Penrose House,2010,4,B03,False
+BK0009,The Distant Lantern,Olivia Banerjee,Mystery,9784032596912,Northwind Press,2025,6,B04,False
+BK0010,The Crimson Voyage,Siddharth Ghosh,Young Adult,9787384285841,Northwind Press,2019,3,B02,False
+BK0011,The Distant Map,Siddharth Das,Fiction,9786164784811,Alder & Finch,1985,7,B02,False
+BK0012,The Glass Empire,Karan Iyer,Biography,9789541268944,Alder & Finch,2006,6,B05,False
+BK0013,The Bright River,Manish Patel,History,9781045146893,Penrose House,1991,3,B03,True
+BK0014,The Distant Theory,Neha Reddy,Science Fiction,9783862614390,Meridian Publishing,2000,8,B05,False
+BK0015,The Golden Lantern,Diya Sen,Romance,9788206610141,Lakeshore Books,2024,6,B02,False
+BK0016,The Quiet River,Debasmita Das,Fiction,9787078799037,Penrose House,2026,4,B02,False
+BK0017,The Secret Echo,Diya Dutta,Self-Help,9783779330224,Northwind Press,1991,2,B02,False
+BK0018,The Bright Letter,Vikram Dutta,Mystery,9784877047247,Penrose House,1990,8,B03,False
+BK0019,The Broken Forest,Karan Nair,Mystery,9787843364414,Northwind Press,2014,7,B04,False
+BK0020,The Golden Archive,Vikram Mehta,Science Fiction,9782587499473,Penrose House,2002,6,B03,False
+BK0021,The Midnight Voyage,Ananya Khan,Young Adult,9788321828054,Alder & Finch,2003,7,B02,False
+BK0022,The Quiet Cipher,Rahul Mukherjee,Children,9784103474226,Lakeshore Books,2021,5,B05,False
+BK0023,The Quiet Theory,Rahul Ghosh,Poetry,9784945018345,Alder & Finch,2023,2,B03,False
+BK0024,The Secret Mirror,Sourav Das,Science,9780531441572,Lakeshore Books,2022,2,B02,False
+BK0025,The Glass Lantern,Liam Paul,Technology,9789670737822,Meridian Publishing,2017,1,B01,False
+BK0026,The Endless Echo,Sourav Smith,Romance,9780674134913,Meridian Publishing,2026,1,B03,True
+BK0027,The Iron Empire,Aditya Dutta,Young Adult,9786289377610,Alder & Finch,2015,6,B04,False
+BK0028,The Last Archive,Debasmita Chatterjee,History,9783126520247,Alder & Finch,2022,7,B05,True
+BK0029,The Winter Orchard,Meera Chatterjee,Fantasy,9783250205456,Lakeshore Books,2007,2,B02,False
+BK0030,The Paper Promise,Emma Brown,Science,9783891912503,Penrose House,1987,5,B01,True
+BK0031,The Hidden Atlas,Neha Patel,History,9781489254469,Northwind Press,2019,1,B05,False
+BK0032,The Last Season,Imran Das,Fiction,9784099358549,Penrose House,2024,4,B03,False
+BK0033,The Iron Signal,Kabir Chatterjee,Fantasy,9788514625605,Meridian Publishing,1998,7,B01,True
+BK0034,The Winter Harbor,Olivia Nair,Science Fiction,9787257062360,Meridian Publishing,2002,7,B01,False
+BK0035,The Endless Cipher,Neha Nair,Children,9780490704440,Lakeshore Books,2009,8,B03,False
+BK0036,The Midnight Machine,Neha Sharma,Fantasy,9787276536999,Alder & Finch,2012,3,B04,True
+BK0037,The Burning Orchard,Tanvi Reddy,Children,9782539981377,Alder & Finch,2013,8,B02,False
+BK0038,The Crimson Compass,Sneha Patel,Romance,9783116448072,Penrose House,2001,7,B02,True
+BK0039,The Hollow Archive,Imran Singh,Self-Help,9789953219144,Lakeshore Books,2020,3,B04,True
+BK0040,The Forgotten Bridge,Diya Sharma,Fiction,9786857541240,Northwind Press,2019,3,B05,True
+BK0041,The Silent Orchard,Liam Khan,Young Adult,9783448970475,Penrose House,2024,1,B03,False
+BK0042,The Glass Bridge,Ananya Paul,Romance,9784445152685,Northwind Press,2009,8,B03,False
+BK0043,The Hollow Tide,Kabir Nair,Science Fiction,9783964002275,Meridian Publishing,1988,2,B02,False
+BK0044,The Forgotten Echo,Aarav Mehta,Mystery,9789595374246,Lakeshore Books,2020,3,B01,False
+BK0045,The Burning Island,Sourav Bose,Science Fiction,9783794248194,Alder & Finch,1988,4,B01,False
+BK0046,The Secret Lantern,Isha Nair,Fantasy,9788779150206,Northwind Press,1993,2,B05,False
+BK0047,The Golden Garden,Noah Dutta,Technology,9786713688040,Northwind Press,1996,7,B01,False
+BK0048,The Broken Shadow,Diya Joshi,Poetry,9788181084462,Meridian Publishing,1992,6,B05,False
+BK0049,The Hidden Echo,Joseph Chatterjee,Technology,9786423035116,Lakeshore Books,2015,2,B02,True
+BK0050,The Burning Lantern,Riya Sharma,History,9784177023708,Meridian Publishing,2003,2,B04,True
+BK0051,The Distant Orchard,Aarav Sharma,Romance,9783180195466,Meridian Publishing,1994,1,B05,False
+BK0052,The Midnight Lantern,Kabir Brown,Children,9786052851822,Northwind Press,1985,8,B04,False
+BK0053,The Bright Library,Riya Sen,Children,9789786915232,Alder & Finch,1994,4,B04,True
+BK0054,The Iron Promise,Vikram Smith,Science Fiction,9782496345256,Meridian Publishing,2014,6,B02,False
+BK0055,The Iron Voyage,Meera Paul,Poetry,9782575257256,Lakeshore Books,2018,2,B03,False
+BK0056,The Golden Bridge,Aarav Sharma,Fantasy,9783383519576,Lakeshore Books,1997,2,B04,True
+BK0057,The Crimson Cipher,Rohan Sen,Children,9783378188116,Lakeshore Books,1988,5,B03,True
+BK0058,The Glass Voyage,Isha Gupta,Business,9788369329244,Penrose House,2008,2,B01,True
+BK0059,The Endless Shadow,Karan Sen,Technology,9785266240295,Meridian Publishing,2017,5,B05,False
+BK0060,The Secret Empire,Rahul Sharma,Mystery,9786877746281,Meridian Publishing,1987,8,B01,False
+BK0061,The Broken Machine,Priya Iyer,Biography,9788817953851,Penrose House,2018,3,B05,False
+BK0062,The Glass Map,Debasmita Bose,Fiction,9782642712403,Lakeshore Books,1992,5,B05,True
+BK0063,The Winter Garden,Rohan Sen,Children,9789983083716,Alder & Finch,1995,8,B01,False
+BK0064,The Bright Forest,Rohan Reddy,Science Fiction,9785914936172,Northwind Press,2011,8,B04,True
+BK0065,The Midnight Promise,Priya Iyer,Technology,9785864138264,Penrose House,1987,1,B04,False
+BK0066,The Burning Machine,Karan Iyer,Young Adult,9783732578667,Northwind Press,1997,1,B02,False
+BK0067,The Paper Island,Farah Brown,Mystery,9782246617387,Penrose House,1990,8,B05,False
+BK0068,The Hidden Horizon,Joseph Gupta,Fantasy,9789651383025,Lakeshore Books,1994,8,B01,False
+BK0069,The Secret Orchard,Pooja Gupta,Science,9786995580547,Penrose House,2017,3,B02,False
+BK0070,The Golden River,Farah Chatterjee,Romance,9788666522762,Meridian Publishing,1994,5,B05,True
+BK0071,The Crimson Mirror,Karan Gupta,Mystery,9788962924852,Lakeshore Books,1986,5,B04,False
+BK0072,The Midnight Forest,Priya Chatterjee,Fiction,9780367217104,Lakeshore Books,1994,6,B01,True
+BK0073,The Quiet Harbor,Sourav Gupta,Fantasy,9785222300303,Lakeshore Books,1988,7,B01,True
+BK0074,The Iron Lantern,Joseph Dutta,Science,9785066568013,Alder & Finch,2011,3,B02,False
+BK0075,The Silent Theory,Aditya Paul,Biography,9786895440452,Northwind Press,2025,8,B01,False
+BK0076,The Last Echo,Meera Smith,Mystery,9787839197263,Northwind Press,1992,1,B01,True
+BK0077,The Quiet Atlas,Vikram Chatterjee,Romance,9787123136651,Penrose House,2015,1,B03,False
+BK0078,The Broken Garden,Vikram Gupta,Fantasy,9782921403827,Meridian Publishing,2000,8,B01,False
+BK0079,The Iron River,Rahul Joshi,Science Fiction,9784365329194,Northwind Press,1988,2,B02,False
+BK0080,The Quiet Tide,Rohan Dutta,Self-Help,9789356325627,Alder & Finch,2013,8,B02,False
+BK0081,The Secret Library,Emma Chatterjee,Science Fiction,9786190646766,Penrose House,1993,3,B05,True
+BK0082,The Secret Signal,Siddharth Joshi,History,9788784226502,Penrose House,2006,3,B05,False
+BK0083,The Hidden Letter,Meera Bose,Young Adult,9789771028574,Penrose House,2006,1,B05,True
+BK0084,The Last Lantern,Arjun Mehta,History,9784694593858,Penrose House,2010,8,B02,True
+BK0085,The Hollow Compass,Sneha Bose,Science,9784636367443,Northwind Press,1990,3,B03,False
+BK0086,The Quiet Garden,Farah Singh,Fiction,9787550108800,Alder & Finch,1995,2,B03,False
+BK0087,The Secret Storm,Manish Roy,Mystery,9787536213871,Lakeshore Books,2015,4,B05,True
+BK0088,The Winter Theory,Vikram Chatterjee,Fiction,9785897122113,Northwind Press,2024,2,B04,False
+BK0089,The Paper Harbor,Olivia Sharma,Self-Help,9785342195288,Alder & Finch,1985,7,B05,False
+BK0090,The Crimson Storm,Noah Dutta,Children,9789169828445,Alder & Finch,2002,1,B03,False
+BK0091,The Winter Voyage,Pooja Reddy,Mystery,9787158520575,Meridian Publishing,2022,4,B05,True
+BK0092,The Midnight Horizon,Priya Banerjee,Mystery,9789650517193,Alder & Finch,1997,4,B04,False
+BK0093,The Winter Signal,Tanvi Sen,Science Fiction,9784129259603,Meridian Publishing,2003,1,B04,True
+BK0094,The Endless Kingdom,Arjun Joshi,Biography,9783225324324,Penrose House,2022,1,B04,True
+BK0095,The Silent Machine,Imran Bose,Science,9789559623441,Penrose House,2025,5,B02,True
+BK0096,The Quiet Lantern,Rahul Khan,Technology,9781397814544,Meridian Publishing,2012,4,B04,True
+BK0097,The Forgotten Letter,Aditya Dutta,Young Adult,9783089045794,Meridian Publishing,2014,2,B02,True
+BK0098,The Silent Compass,Emma Gupta,Science Fiction,9787982840783,Alder & Finch,2010,2,B04,True
+BK0099,The Hollow Season,Olivia Chatterjee,Technology,9784319050696,Lakeshore Books,1996,7,B02,False
+BK0100,The Broken Lantern,Priya Sharma,Biography,9786898258260,Lakeshore Books,2022,6,B04,False
+BK0101,The Forgotten Atlas,Manish Mehta,Science Fiction,9788678248182,Meridian Publishing,1986,5,B03,True
+BK0102,The Distant Garden,Olivia Joshi,Young Adult,9785568314677,Northwind Press,1987,7,B04,False
+BK0103,The Winter Promise,Aarav Chatterjee,Fiction,9783901091687,Lakeshore Books,2010,1,B02,True
+BK0104,The Broken Bridge,Imran Roy,Technology,9789045665314,Alder & Finch,2020,6,B04,False
+BK0105,The Glass Theory,Aditya Sen,Self-Help,9782575506412,Alder & Finch,2019,7,B05,False
+BK0106,The Midnight Kingdom,Manish Mehta,Young Adult,9787959129162,Penrose House,2013,2,B01,False
+BK0107,The Hollow Garden,Neha Iyer,History,9783438955020,Alder & Finch,2000,5,B02,True
+BK0108,The Iron Map,Pooja Brown,Science Fiction,9788238760553,Penrose House,2000,7,B04,False
+BK0109,The Secret Letter,Manish Joshi,Children,9787923380874,Meridian Publishing,2002,5,B05,False
+BK0110,The Broken Island,Ananya Brown,Self-Help,9785872061094,Penrose House,1995,2,B04,False
+BK0111,The Winter Library,Isha Brown,History,9786210304355,Northwind Press,2002,6,B03,False
+BK0112,The Lost River,Neha Smith,Self-Help,9783403994951,Northwind Press,1989,7,B02,False
+BK0113,The Distant Voyage,Liam Bose,Science Fiction,9788466375327,Lakeshore Books,1998,1,B05,True
+BK0114,The Lost Theory,Emma Reddy,Biography,9782183678678,Lakeshore Books,2024,5,B05,False
+BK0115,The Iron Library,Maria Mukherjee,Young Adult,9789071802160,Penrose House,2014,5,B05,True
+BK0116,The Endless Orchard,Rohan Ghosh,Science Fiction,9780595465350,Lakeshore Books,1990,3,B02,False
+BK0117,The Bright Machine,Joseph Bose,Romance,9782630183075,Northwind Press,1997,1,B03,False
+BK0118,The Iron Mirror,Pooja Ghosh,Poetry,9784835762671,Meridian Publishing,1995,1,B02,False
+BK0119,The Lost Horizon,Manish Paul,Children,9781618196423,Meridian Publishing,1996,7,B05,False
+BK0120,The Glass Harbor,Maria Banerjee,Young Adult,9787725926181,Penrose House,2014,7,B05,True
+BK0121,The Glass Library,Tanvi Khan,Fantasy,9782431609039,Penrose House,2022,4,B01,True
+BK0122,The Last Voyage,Farah Ghosh,Business,9781070848219,Meridian Publishing,2014,8,B02,False
+BK0123,The Paper Storm,Olivia Gupta,Mystery,9787934542360,Lakeshore Books,2005,8,B03,False
+BK0124,The Paper Shadow,Sourav Banerjee,History,9783201413580,Northwind Press,1991,6,B03,False
+BK0125,The Endless Voyage,Emma Mukherjee,Romance,9784144749100,Penrose House,1991,5,B03,False
+BK0126,The Crimson Archive,Priya Dutta,Children,9783102980924,Lakeshore Books,2019,8,B02,False
+BK0127,The Quiet Forest,Olivia Roy,Young Adult,9783477567131,Penrose House,2013,5,B04,False
+BK0128,The Broken City,Karan Das,Self-Help,9787465219213,Penrose House,2006,8,B05,False
+BK0129,The Lost Kingdom,Olivia Sharma,Science,9789294860542,Lakeshore Books,2009,8,B05,True
+BK0130,The Secret Island,Aarav Roy,Romance,9785168046032,Alder & Finch,2020,2,B03,True
+BK0131,The Paper Signal,Aarav Mukherjee,History,9780847589634,Lakeshore Books,2019,6,B05,False
+BK0132,The Paper Map,Manish Joshi,History,9788451963541,Penrose House,1988,6,B04,False
+BK0133,The Hidden Kingdom,Vikram Sen,Fiction,9788883207388,Penrose House,2001,7,B01,False
+BK0134,The Broken Mirror,Manish Patel,History,9781914496858,Lakeshore Books,1986,3,B04,True
+BK0135,The Distant Letter,Debasmita Reddy,Children,9788843979597,Lakeshore Books,2001,7,B02,True
+BK0136,The Hollow Letter,Joseph Mukherjee,Technology,9787157793399,Meridian Publishing,2011,4,B04,False
+BK0137,The Burning Cipher,Arjun Iyer,Children,9781391711765,Alder & Finch,1993,4,B04,False
+BK0138,The Iron Shadow,Rahul Paul,Fantasy,9788356736458,Northwind Press,1991,2,B05,True
+BK0139,The Burning Compass,Debasmita Ghosh,History,9783697952962,Penrose House,2005,3,B05,True
+BK0140,The Crimson Letter,Siddharth Paul,Fiction,9783280750677,Meridian Publishing,2007,8,B05,True
+BK0141,The Iron Theory,Neha Singh,Fantasy,9785310360952,Penrose House,2014,6,B03,False
+BK0142,The Winter Mirror,Kabir Nair,Romance,9789192349293,Lakeshore Books,1985,6,B03,False
+BK0143,The Golden Compass,Riya Roy,Science Fiction,9782663135009,Alder & Finch,1995,8,B03,False
+BK0144,The Forgotten City,Aditya Roy,Fiction,9780473407688,Lakeshore Books,2017,3,B05,True
+BK0145,The Iron Cipher,Olivia Brown,Technology,9783031519629,Northwind Press,2013,6,B02,False
+BK0146,The Burning Mirror,Kabir Banerjee,Romance,9787413572722,Lakeshore Books,2022,3,B03,False
+BK0147,The Burning Kingdom,Isha Dutta,Fantasy,9784143273676,Alder & Finch,2019,7,B04,True
+BK0148,The Crimson Orchard,Neha Paul,Mystery,9782822836068,Alder & Finch,2020,4,B01,True
+BK0149,The Endless Harbor,Riya Chatterjee,History,9787582306777,Lakeshore Books,2006,7,B04,False
+BK0150,The Midnight Storm,Vikram Nair,Romance,9781672494756,Meridian Publishing,2025,6,B02,True
+BK0151,The Last Library,Kabir Ghosh,Romance,9786679296534,Alder & Finch,2002,7,B02,False
+BK0152,The Hollow Voyage,Vikram Iyer,Biography,9786328460081,Meridian Publishing,2022,8,B04,False
+BK0153,The Bright Island,Diya Sen,Fiction,9787948492437,Lakeshore Books,2001,7,B01,False
+BK0154,The Midnight Echo,Noah Roy,Young Adult,9780803514980,Meridian Publishing,2003,3,B01,False
+BK0155,The Golden Storm,Siddharth Smith,Fiction,9785506562277,Alder & Finch,2013,5,B03,False
+BK0156,The Broken Letter,Pooja Reddy,Romance,9781258228697,Meridian Publishing,2001,4,B03,True
+BK0157,The Lost Archive,Aditya Ghosh,Mystery,9789122076011,Penrose House,1991,1,B01,False
+BK0158,The Last Bridge,Pooja Joshi,History,9784429254389,Penrose House,2022,5,B02,True
+BK0159,The Golden Mirror,Manish Ghosh,Science Fiction,9780414643323,Lakeshore Books,2004,4,B02,False
+BK0160,The Paper Bridge,Rohan Paul,Children,9783600562263,Lakeshore Books,2023,4,B03,False
+BK0161,The Last Letter,Liam Singh,Fantasy,9787115375311,Lakeshore Books,2001,1,B02,False
+BK0162,The Midnight Empire,Vikram Brown,Science,9787258821763,Meridian Publishing,2025,5,B01,False
+BK0163,The Secret Season,Sneha Sen,Mystery,9785177243019,Penrose House,2010,5,B03,True
+BK0164,The Crimson Forest,Farah Dutta,Fiction,9784103939477,Northwind Press,2017,1,B05,False
+BK0165,The Quiet Voyage,Aarav Roy,Fantasy,9780099169928,Penrose House,2016,6,B03,True
+BK0166,The Golden Signal,Siddharth Dutta,History,9786916030486,Meridian Publishing,1993,2,B02,False
+BK0167,The Winter Archive,Arjun Iyer,Romance,9783437205842,Penrose House,2019,2,B03,False
+BK0168,The Hollow Harbor,Meera Bose,Business,9780971013818,Lakeshore Books,2024,4,B01,False
+BK0169,The Crimson Garden,Olivia Mukherjee,Technology,9780729422843,Alder & Finch,2012,4,B02,False
+BK0170,The Bright Harbor,Arjun Iyer,Business,9787564000557,Penrose House,2024,8,B03,False
+BK0171,The Golden Orchard,Liam Gupta,Science Fiction,9788199651106,Penrose House,2020,1,B03,True
+BK0172,The Bright Map,Vikram Nair,Children,9784110666101,Alder & Finch,2012,3,B03,True
+BK0173,The Paper Forest,Tanvi Khan,Biography,9787720381741,Lakeshore Books,2005,6,B05,True
+BK0174,The Golden Echo,Kabir Dutta,Science,9789560366069,Alder & Finch,2021,2,B04,True
+BK0175,The Hidden Island,Aditya Patel,Business,9787296019204,Northwind Press,1992,8,B01,False
+BK0176,The Distant Harbor,Debasmita Bose,Science,9785569700033,Northwind Press,2008,6,B03,False
+BK0177,The Endless City,Kabir Das,Young Adult,9789308297881,Northwind Press,2019,8,B03,False
+BK0178,The Bright Storm,Diya Bose,Self-Help,9786467539682,Lakeshore Books,2024,8,B01,False
+BK0179,The Lost Tide,Manish Sen,Fiction,9788348329933,Lakeshore Books,1996,1,B02,False
+BK0180,The Last Kingdom,Manish Khan,Technology,9782052816561,Lakeshore Books,1988,4,B05,False
+BK0181,The Broken Kingdom,Tanvi Joshi,Romance,9784638530144,Meridian Publishing,1999,6,B02,False
+BK0182,The Glass Kingdom,Priya Smith,Young Adult,9788715416504,Alder & Finch,2021,1,B03,False
+BK0183,The Burning Tide,Liam Sen,Children,9787331296141,Alder & Finch,2007,4,B02,False
+BK0184,The Lost Atlas,Olivia Khan,Fiction,9784165642224,Alder & Finch,1987,6,B01,True
+BK0185,The Iron Orchard,Ananya Roy,Fiction,9784602899311,Alder & Finch,1990,7,B02,False
+BK0186,The Last Garden,Imran Sen,Fiction,9781988734885,Lakeshore Books,1999,4,B04,True
+BK0187,The Winter Island,Priya Iyer,History,9788348374226,Alder & Finch,1999,7,B05,False
+BK0188,The Paper City,Neha Sen,Fiction,9784370096505,Alder & Finch,1990,6,B04,False
+BK0189,The Bright Echo,Diya Nair,Self-Help,9784505520976,Penrose House,2005,1,B05,True
+BK0190,The Burning Theory,Arjun Sen,Biography,9787614829033,Meridian Publishing,2005,3,B04,True
+BK0191,The Midnight City,Karan Das,Children,9786126288353,Alder & Finch,1993,8,B04,False
+BK0192,The Endless Compass,Isha Sharma,Science Fiction,9783621292361,Northwind Press,1994,1,B03,False
+BK0193,The Forgotten Island,Karan Brown,History,9782199726681,Alder & Finch,2012,1,B01,False
+BK0194,The Hidden Cipher,Tanvi Paul,Fiction,9787158018065,Lakeshore Books,2024,3,B03,False
+BK0195,The Last Compass,Imran Paul,Young Adult,9783883011956,Meridian Publishing,2026,8,B05,False
+BK0196,The Forgotten Promise,Sneha Smith,Mystery,9782877465353,Northwind Press,2008,6,B03,False
+BK0197,The Quiet Horizon,Isha Gupta,Fiction,9789777492502,Northwind Press,1986,2,B04,False
+BK0198,The Silent River,Sourav Iyer,Mystery,9785496446725,Lakeshore Books,2022,4,B01,False
+BK0199,The Iron Island,Isha Banerjee,Children,9785095266904,Meridian Publishing,2024,8,B02,True
+BK0200,The Hollow Island,Aarav Ghosh,Fiction,9781554954028,Lakeshore Books,1996,2,B02,False
+BK0201,The Burning Voyage,Olivia Singh,Science,9784955450045,Meridian Publishing,2001,5,B02,True
+BK0202,The Bright Orchard,Neha Smith,Self-Help,9785427604772,Penrose House,1986,4,B05,True
+BK0203,The Iron Garden,Farah Sharma,Self-Help,9789646821408,Northwind Press,2018,7,B03,False
+BK0204,The Glass Season,Pooja Mukherjee,Mystery,9789690642356,Lakeshore Books,2017,7,B04,True
+BK0205,The Forgotten Kingdom,Isha Patel,Fiction,9781690863767,Penrose House,1985,7,B04,False
+BK0206,The Glass Compass,Manish Singh,Romance,9780063247194,Lakeshore Books,2014,1,B03,False
+BK0207,The Broken Promise,Isha Singh,Mystery,9781081465217,Northwind Press,2002,4,B05,True
+BK0208,The Glass Tide,Rahul Mehta,Technology,9784015131767,Northwind Press,2007,6,B02,False
+BK0209,The Last Theory,Priya Nair,Fantasy,9780326827580,Penrose House,1994,4,B01,False
+BK0210,The Glass Promise,Pooja Reddy,Romance,9789421981475,Lakeshore Books,2019,6,B04,False
+BK0211,The Forgotten Horizon,Aarav Paul,Fiction,9781332927977,Lakeshore Books,2001,6,B04,True
+BK0212,The Broken Harbor,Emma Reddy,Biography,9781177745025,Alder & Finch,2020,3,B02,False
+BK0213,The Broken Atlas,Tanvi Joshi,Mystery,9781102969258,Alder & Finch,1991,1,B05,False
+BK0214,The Glass Mirror,Neha Khan,Technology,9783668965863,Penrose House,2009,8,B01,False
+BK0215,The Crimson Bridge,Rahul Mukherjee,Fiction,9786525695195,Northwind Press,1998,7,B02,False
+BK0216,The Broken Horizon,Maria Nair,Business,9782733885381,Lakeshore Books,2025,8,B01,False
+BK0217,The Paper Lantern,Vikram Brown,Technology,9787584807061,Alder & Finch,2008,3,B01,False
+BK0218,The Iron Bridge,Pooja Reddy,Mystery,9789718250125,Penrose House,2015,3,B04,True
+BK0219,The Quiet Orchard,Isha Iyer,Fiction,9785817021159,Penrose House,1988,3,B04,False
+BK0220,The Forgotten Garden,Debasmita Gupta,Fantasy,9786850380080,Lakeshore Books,2013,1,B04,False
+BK0221,The Secret Archive,Kabir Dutta,Mystery,9789765048948,Alder & Finch,1989,2,B05,False
+BK0222,The Lost Storm,Aditya Mehta,Mystery,9787066578539,Alder & Finch,2000,3,B01,False
+BK0223,The Endless Mirror,Rahul Chatterjee,Young Adult,9789661415829,Alder & Finch,1994,8,B04,False
+BK0224,The Winter Storm,Farah Paul,Biography,9781091773030,Alder & Finch,1985,2,B01,False
+BK0225,The Iron Tide,Arjun Mehta,Mystery,9786898787693,Penrose House,2009,5,B05,False
+BK0226,The Silent Empire,Emma Mehta,Biography,9784932125816,Northwind Press,1995,5,B04,True
+BK0227,The Last City,Kabir Singh,Science Fiction,9787871499696,Northwind Press,2006,3,B04,True
+BK0228,The Broken Echo,Arjun Banerjee,Business,9780913270687,Lakeshore Books,2017,8,B03,True
+BK0229,The Secret Promise,Imran Brown,Fiction,9783836500199,Alder & Finch,1992,1,B02,False
+BK0230,The Secret City,Pooja Reddy,Self-Help,9784909207327,Meridian Publishing,2014,7,B04,False
+BK0231,The Last River,Farah Gupta,Children,9783710362174,Penrose House,1997,6,B05,False
+BK0232,The Iron Harbor,Karan Chatterjee,Fiction,9784200602937,Penrose House,1998,3,B01,False
+BK0233,The Silent Archive,Sneha Das,Mystery,9783984649386,Lakeshore Books,2009,7,B05,True
+BK0234,The Paper Library,Tanvi Dutta,Fantasy,9786387881882,Lakeshore Books,2011,4,B04,False
+BK0235,The Iron Forest,Rohan Singh,Young Adult,9789532306765,Lakeshore Books,2012,8,B01,False
+BK0236,The Midnight Cipher,Isha Sen,History,9783780398914,Northwind Press,1993,1,B05,False
+BK0237,The Distant Library,Pooja Ghosh,Science,9781852078898,Lakeshore Books,2009,1,B01,True
+BK0238,The Hidden River,Riya Iyer,Children,9787894781631,Meridian Publishing,1996,5,B04,True
+BK0239,The Distant City,Debasmita Sharma,Children,9781187166569,Alder & Finch,1996,8,B01,True
+BK0240,The Midnight Bridge,Ananya Sen,Romance,9785653847667,Northwind Press,2024,1,B01,False
+BK0241,The Midnight Harbor,Riya Mukherjee,History,9787565378778,Lakeshore Books,1989,7,B04,False
+BK0242,The Quiet Signal,Neha Das,Technology,9783037857066,Alder & Finch,2002,8,B04,True
+BK0243,The Silent Echo,Sourav Bose,Science Fiction,9785745672342,Penrose House,2003,4,B04,True
+BK0244,The Golden Cipher,Vikram Nair,Children,9783334563847,Meridian Publishing,1995,7,B02,True
+BK0245,The Bright Signal,Isha Khan,Fiction,9781143414672,Meridian Publishing,2017,7,B05,False
+BK0246,The Crimson Echo,Vikram Patel,Mystery,9783557368283,Alder & Finch,2005,2,B01,False
+BK0247,The Forgotten Theory,Aditya Dutta,Children,9783665209885,Meridian Publishing,2015,7,B05,False
+BK0248,The Hollow Map,Imran Iyer,Fantasy,9788401239362,Northwind Press,2001,6,B02,True
+BK0249,The Broken Tide,Noah Singh,Mystery,9786514187982,Alder & Finch,2022,1,B04,False
+BK0250,The Forgotten Season,Emma Iyer,Mystery,9787197698810,Alder & Finch,2015,5,B05,False
+BK0251,The Winter City,Siddharth Singh,History,9789240688565,Meridian Publishing,1998,6,B02,False
+BK0252,The Lost Library,Imran Iyer,Children,9784592465026,Penrose House,2025,7,B03,False
+BK0253,The Hollow River,Liam Das,Fiction,9786796533847,Alder & Finch,2021,7,B05,False
+BK0254,The Secret Tide,Pooja Mukherjee,Fiction,9781121665251,Northwind Press,2009,4,B05,False
+BK0255,The Paper Echo,Liam Gupta,Romance,9784101145641,Penrose House,1985,3,B02,False
+BK0256,The Last Map,Sourav Paul,Poetry,9780792232247,Penrose House,2009,2,B03,True
+BK0257,The Distant Tide,Siddharth Das,Science Fiction,9787934303241,Meridian Publishing,2014,1,B02,False
+BK0258,The Forgotten Archive,Arjun Singh,Business,9787890198535,Lakeshore Books,2000,6,B03,False
+BK0259,The Glass River,Emma Paul,Young Adult,9785850672118,Northwind Press,1991,8,B02,False
+BK0260,The Broken Theory,Karan Paul,Science Fiction,9784590285071,Alder & Finch,2008,1,B01,False
+BK0261,The Broken Signal,Isha Mehta,Children,9787784285616,Penrose House,2018,6,B05,False
+BK0262,The Iron City,Priya Patel,Technology,9785271795155,Alder & Finch,1998,5,B04,True
+BK0263,The Secret Shadow,Isha Gupta,History,9785262556787,Northwind Press,2004,2,B03,False
+BK0264,The Paper Letter,Rahul Singh,Romance,9787822547017,Meridian Publishing,1985,2,B01,False
+BK0265,The Paper Mirror,Rahul Banerjee,Children,9788335415878,Lakeshore Books,2014,3,B01,False
+BK0266,The Distant Signal,Olivia Khan,Children,9786820196283,Alder & Finch,2021,6,B03,False
+BK0267,The Midnight Shadow,Ananya Chatterjee,Self-Help,9785202250253,Lakeshore Books,2017,3,B04,True
+BK0268,The Silent City,Liam Nair,Business,9786698266571,Penrose House,2003,7,B02,True
+BK0269,The Midnight Island,Maria Reddy,Romance,9783880421056,Northwind Press,1986,3,B04,True
+BK0270,The Distant Horizon,Imran Iyer,Children,9785376932454,Lakeshore Books,2005,1,B02,False
+BK0271,The Silent Map,Diya Nair,Children,9788054268500,Alder & Finch,2024,1,B01,False
+BK0272,The Hidden Compass,Emma Sen,Mystery,9784633800194,Northwind Press,1988,4,B03,False
+BK0273,The Midnight Season,Farah Paul,Fiction,9781396220712,Northwind Press,1993,4,B01,True
+BK0274,The Forgotten Harbor,Priya Nair,Fantasy,9783667233075,Lakeshore Books,2020,6,B01,False
+BK0275,The Burning Library,Emma Chatterjee,Children,9784919626733,Lakeshore Books,2008,4,B01,False
+BK0276,The Quiet Season,Vikram Iyer,Science Fiction,9788106951528,Lakeshore Books,1992,2,B02,True
+BK0277,The Broken River,Liam Das,Technology,9786366635043,Penrose House,1986,2,B03,True
+BK0278,The Endless Theory,Diya Bose,Fiction,9785994614669,Lakeshore Books,2002,5,B05,False
+BK0279,The Burning Bridge,Aarav Mukherjee,Fantasy,9784995037598,Lakeshore Books,2009,3,B02,False
+BK0280,The Quiet Kingdom,Olivia Gupta,Science,9780838540155,Meridian Publishing,2020,6,B01,True
+BK0281,The Burning River,Debasmita Roy,Fiction,9785150146698,Penrose House,2022,8,B01,True
+BK0282,The Forgotten Voyage,Rohan Singh,Young Adult,9783708379790,Meridian Publishing,2004,3,B02,True
+BK0283,The Broken Storm,Imran Banerjee,Mystery,9781651709148,Alder & Finch,2002,5,B02,True
+BK0284,The Hollow Signal,Tanvi Nair,Young Adult,9785779495871,Penrose House,2024,7,B02,True
+BK0285,The Bright Season,Priya Smith,Mystery,9786818187171,Penrose House,2017,2,B05,False
+BK0286,The Iron Kingdom,Manish Reddy,Business,9785921430421,Lakeshore Books,1993,5,B02,False
+BK0287,The Quiet Shadow,Rahul Khan,Science,9782099384912,Northwind Press,2013,3,B04,False
+BK0288,The Midnight Theory,Sourav Sharma,Fiction,9787284447077,Lakeshore Books,2015,6,B04,False
+BK0289,The Endless Island,Isha Reddy,Fiction,9788975438350,Meridian Publishing,1994,6,B01,False
+BK0290,The Crimson River,Manish Banerjee,Fiction,9783245741508,Penrose House,2026,2,B02,True
+BK0291,The Endless Map,Farah Ghosh,Biography,9787220309165,Northwind Press,1997,2,B03,True
+BK0292,The Last Tide,Isha Bose,Children,9782818768421,Alder & Finch,2008,1,B03,True
+BK0293,The Hidden Season,Olivia Gupta,Fantasy,9789483983472,Lakeshore Books,2005,1,B01,False
+BK0294,The Silent Voyage,Vikram Iyer,Romance,9780251390040,Meridian Publishing,2014,1,B04,False
+BK0295,The Forgotten Compass,Tanvi Das,Biography,9780118157663,Lakeshore Books,2022,6,B02,False
+BK0296,The Paper Theory,Karan Sharma,History,9788018011015,Meridian Publishing,2001,8,B02,False
+BK0297,The Broken Compass,Diya Gupta,Technology,9786090685412,Penrose House,2001,4,B04,False
+BK0298,The Golden Library,Imran Paul,Romance,9788307600106,Alder & Finch,2016,8,B05,True
+BK0299,The Silent Lantern,Rohan Patel,Technology,9781619734005,Northwind Press,2024,6,B05,False
+BK0300,The Endless Storm,Aditya Chatterjee,Business,9780631557158,Meridian Publishing,2023,7,B05,False
+BK0301,The Secret River,Olivia Joshi,Fantasy,9782874892901,Lakeshore Books,2016,6,B03,False
+BK0302,The Paper Empire,Siddharth Das,Fiction,9780396605342,Meridian Publishing,2014,2,B01,False
+BK0303,The Crimson Empire,Rohan Mukherjee,Fiction,9782954074361,Meridian Publishing,2017,5,B02,False
+BK0304,The Secret Voyage,Riya Nair,Biography,9785840205316,Lakeshore Books,2024,5,B02,True
+BK0305,The Distant Kingdom,Isha Mehta,Fantasy,9781390235290,Northwind Press,1985,6,B02,False
+BK0306,The Last Machine,Joseph Gupta,Poetry,9789501123637,Meridian Publishing,2009,7,B02,False
+BK0307,The Hidden Bridge,Liam Bose,Science,9782223822961,Lakeshore Books,1986,1,B01,False
+BK0308,The Last Atlas,Debasmita Paul,History,9788114617170,Northwind Press,2009,6,B01,False
+BK0309,The Bright Theory,Meera Bose,Children,9784626663773,Lakeshore Books,2001,7,B04,False
+BK0310,The Crimson Shadow,Noah Brown,Science Fiction,9787987782713,Northwind Press,1997,1,B03,False
+BK0311,The Midnight Tide,Tanvi Bose,Children,9789284205450,Alder & Finch,2022,4,B01,False
+BK0312,The Midnight Garden,Liam Dutta,Fiction,9782039160593,Alder & Finch,2014,8,B03,False
+BK0313,The Broken Cipher,Liam Dutta,Science,9781528866674,Lakeshore Books,2008,1,B05,False
+BK0314,The Glass Storm,Priya Bose,Young Adult,9789306693453,Lakeshore Books,2022,2,B03,True
+BK0315,The Lost Orchard,Aditya Sen,Children,9787474295753,Meridian Publishing,1989,7,B02,False
+BK0316,The Bright Mirror,Joseph Smith,Children,9789394009538,Alder & Finch,2012,2,B02,False
+BK0317,The Golden Empire,Tanvi Roy,Fantasy,9786661070712,Penrose House,1991,6,B02,False
+BK0318,The Iron Archive,Kabir Mehta,Children,9787676082181,Meridian Publishing,1994,8,B02,False
+BK0319,The Lost City,Siddharth Ghosh,History,9785470144761,Penrose House,1992,4,B05,False
+BK0320,The Golden Forest,Sourav Dutta,Science,9789499054435,Alder & Finch,2007,4,B05,False
+BK0321,The Hidden Voyage,Kabir Gupta,Fiction,9784121863302,Penrose House,2011,4,B02,True
+BK0322,The Hollow Cipher,Debasmita Dutta,Mystery,9789018504733,Alder & Finch,2016,3,B05,False
+BK0323,The Last Signal,Farah Sen,History,9786592216536,Lakeshore Books,2003,4,B05,False
+BK0324,The Hidden Map,Maria Brown,Fiction,9783154449225,Penrose House,2024,5,B01,True
+BK0325,The Midnight Map,Manish Patel,Self-Help,9780155618413,Alder & Finch,2000,8,B03,False
+BK0326,The Crimson Harbor,Siddharth Joshi,Children,9782444499498,Northwind Press,1991,8,B04,True
+BK0327,The Hollow Echo,Ananya Bose,Young Adult,9788243006486,Meridian Publishing,1986,7,B03,False
+BK0328,The Burning City,Siddharth Smith,Fiction,9780845960140,Penrose House,1990,1,B03,True
+BK0329,The Distant Storm,Arjun Paul,Poetry,9781711502969,Northwind Press,2003,3,B03,False
+BK0330,The Silent Cipher,Neha Chatterjee,Fiction,9783623181244,Alder & Finch,2002,7,B04,False
+BK0331,The Distant Atlas,Riya Chatterjee,Romance,9783329599681,Alder & Finch,2020,5,B02,False
+BK0332,The Burning Storm,Emma Mukherjee,Children,9789472084160,Meridian Publishing,1990,3,B03,True
+BK0333,The Hidden Empire,Debasmita Brown,Fiction,9784774381018,Meridian Publishing,1996,3,B02,False
+BK0334,The Winter Atlas,Arjun Patel,Fiction,9784010840265,Penrose House,2026,1,B05,False
+BK0335,The Secret Horizon,Karan Joshi,Fiction,9788000376266,Lakeshore Books,1986,3,B01,False
+BK0336,The Bright Compass,Noah Sen,History,9781740376273,Northwind Press,2002,4,B01,True
+BK0337,The Last Shadow,Farah Gupta,Children,9784098157529,Alder & Finch,1993,4,B01,True
+BK0338,The Hollow Bridge,Riya Singh,Fiction,9782338579989,Northwind Press,2007,5,B02,False
+BK0339,The Forgotten River,Neha Singh,Fiction,9789961173896,Penrose House,2025,3,B04,False
+BK0340,The Silent Shadow,Aarav Dutta,Biography,9787249829485,Northwind Press,1994,2,B05,True
+BK0341,The Glass Atlas,Joseph Ghosh,Mystery,9786137800648,Penrose House,2000,8,B03,False
+BK0342,The Lost Letter,Aarav Das,Self-Help,9780307813809,Meridian Publishing,2003,4,B01,True
+BK0343,The Hollow Promise,Ananya Joshi,Poetry,9788116050537,Alder & Finch,2018,3,B02,False
+BK0344,The Forgotten Mirror,Arjun Patel,Self-Help,9788466922378,Penrose House,2026,6,B01,True
+BK0345,The Crimson Theory,Maria Paul,Young Adult,9782165318875,Meridian Publishing,1989,5,B03,False
+BK0346,The Winter Forest,Imran Iyer,History,9782402440925,Lakeshore Books,2005,5,B04,False
+BK0347,The Burning Harbor,Tanvi Singh,Children,9784487832453,Lakeshore Books,2016,2,B01,True
+BK0348,The Endless Lantern,Maria Das,Mystery,9784157589908,Alder & Finch,1985,6,B04,True
+BK0349,The Secret Harbor,Imran Ghosh,Fiction,9783442869947,Lakeshore Books,2018,2,B02,False
+BK0350,The Paper Machine,Imran Gupta,Science,9785476976917,Meridian Publishing,1995,7,B04,False
+BK0351,The Forgotten Shadow,Kabir Bose,Fiction,9783472843349,Penrose House,2006,4,B05,False
+BK0352,The Burning Garden,Manish Roy,Young Adult,9781584531695,Alder & Finch,2026,4,B04,False
+BK0353,The Last Orchard,Priya Nair,Technology,9784198936422,Lakeshore Books,2011,4,B04,False
+BK0354,The Last Horizon,Karan Patel,Poetry,9783517482039,Penrose House,2026,4,B04,False
+BK0355,The Lost Compass,Vikram Iyer,Science Fiction,9783782623268,Northwind Press,2010,6,B01,True
+BK0356,The Crimson Tide,Aarav Smith,Romance,9782284571836,Penrose House,1993,4,B01,True
+BK0357,The Paper Tide,Isha Mukherjee,Self-Help,9784761185211,Alder & Finch,2014,2,B02,False
+BK0358,The Broken Season,Kabir Brown,Mystery,9789932415693,Alder & Finch,2010,5,B04,True
+BK0359,The Golden Kingdom,Karan Nair,History,9781136074741,Lakeshore Books,1998,3,B04,False
+BK0360,The Iron Compass,Aditya Das,Technology,9780558813210,Lakeshore Books,1988,1,B04,False
+BK0361,The Glass City,Sneha Patel,Business,9780511176912,Meridian Publishing,2012,7,B02,False
+BK0362,The Paper River,Joseph Das,Self-Help,9784612403754,Alder & Finch,2009,3,B05,False
+BK0363,The Iron Storm,Aditya Sen,Fiction,9784955910432,Alder & Finch,2017,5,B03,False
+BK0364,The Paper Compass,Maria Ghosh,Romance,9781866136566,Alder & Finch,1990,2,B02,False
+BK0365,The Silent Storm,Arjun Nair,Biography,9784720902123,Meridian Publishing,2007,3,B04,True
+BK0366,The Paper Season,Arjun Mehta,Mystery,9781491945431,Meridian Publishing,2019,4,B01,True
+BK0367,The Distant Bridge,Vikram Reddy,Romance,9785955631583,Lakeshore Books,2022,2,B03,True
+BK0368,The Burning Signal,Riya Smith,Science Fiction,9788825746968,Penrose House,2024,8,B04,True
+BK0369,The Secret Theory,Priya Brown,Fiction,9788882012654,Meridian Publishing,1993,3,B04,False
+BK0370,The Lost Forest,Aditya Mehta,History,9780637120294,Meridian Publishing,1992,5,B02,True
+BK0371,The Paper Cipher,Riya Sen,Mystery,9784226977407,Penrose House,2009,5,B01,True
+BK0372,The Bright Lantern,Karan Sen,Biography,9788507921737,Lakeshore Books,2004,4,B01,False
+BK0373,The Golden Shadow,Rahul Roy,Mystery,9787205483287,Meridian Publishing,1994,5,B01,False
+BK0374,The Secret Garden,Karan Joshi,Self-Help,9786978740679,Alder & Finch,1989,5,B05,False
+BK0375,The Hidden Theory,Manish Das,Mystery,9786551009724,Alder & Finch,1991,1,B04,False
+BK0376,The Silent Letter,Joseph Bose,Young Adult,9784243670498,Penrose House,1999,6,B03,False
+BK0377,The Iron Season,Ananya Brown,Fiction,9787709789206,Northwind Press,2016,1,B03,True
+BK0378,The Winter Machine,Riya Das,History,9784029326638,Lakeshore Books,1987,4,B02,False
+BK0379,The Midnight Compass,Karan Dutta,Science Fiction,9785138006424,Meridian Publishing,1989,3,B01,True
+BK0380,The Crimson Kingdom,Vikram Smith,Mystery,9781325690325,Northwind Press,1996,4,B01,False
+BK0381,The Golden Island,Aditya Singh,Romance,9785897108920,Meridian Publishing,2021,1,B04,False
+BK0382,The Paper Garden,Rahul Ghosh,Children,9786585770171,Lakeshore Books,2026,6,B01,False
+BK0383,The Distant River,Sourav Smith,Young Adult,9782721046796,Meridian Publishing,2003,4,B01,False
+BK0384,The Paper Kingdom,Meera Brown,Science Fiction,9787233092430,Penrose House,1986,1,B04,False
+BK0385,The Bright Promise,Pooja Banerjee,Mystery,9789213191320,Northwind Press,1985,1,B03,False
+BK0386,The Midnight Library,Emma Nair,Self-Help,9780520224937,Penrose House,2021,5,B03,False
+BK0387,The Crimson Signal,Manish Joshi,Biography,9787054514195,Northwind Press,2003,6,B02,False
+BK0388,The Iron Letter,Aarav Singh,Mystery,9780597281219,Alder & Finch,1988,5,B01,False
+BK0389,The Winter Cipher,Sourav Nair,Self-Help,9787562089005,Meridian Publishing,2020,6,B03,True
+BK0390,The Last Empire,Aarav Sharma,History,9780792283208,Meridian Publishing,2007,7,B02,False
+BK0391,The Silent Promise,Joseph Mukherjee,Science,9789081134861,Northwind Press,1999,7,B03,True
+BK0392,The Golden Map,Ananya Chatterjee,Fantasy,9785862144311,Alder & Finch,2003,8,B01,False
+BK0393,The Iron Echo,Ananya Mehta,Romance,9785954967575,Northwind Press,1994,8,B02,True
+BK0394,The Hollow Library,Siddharth Mehta,Mystery,9786678260586,Alder & Finch,2024,7,B01,False
+BK0395,The Bright Kingdom,Karan Sen,Self-Help,9782634261497,Meridian Publishing,2018,4,B03,True
+BK0396,The Bright Cipher,Riya Gupta,Mystery,9784909389667,Northwind Press,1993,5,B02,True
+BK0397,The Endless Archive,Aarav Iyer,Children,9782134725009,Penrose House,2015,5,B02,False
+BK0398,The Broken Map,Ananya Sharma,Children,9788835627644,Meridian Publishing,1992,2,B03,True
+BK0399,The Quiet Library,Vikram Singh,Self-Help,9783899737282,Meridian Publishing,2004,6,B03,False
+BK0400,The Bright Horizon,Rohan Iyer,Fiction,9784003508192,Alder & Finch,2016,5,B02,False
+BK0401,The Forgotten Map,Pooja Mukherjee,Science Fiction,9783187016812,Penrose House,1986,5,B04,False
+BK0402,The Burning Season,Vikram Sharma,Romance,9785130474245,Lakeshore Books,2015,7,B02,True
+BK0403,The Bright Voyage,Diya Mukherjee,Biography,9781119713418,Northwind Press,1994,6,B02,False
+BK0404,The Crimson Map,Neha Mehta,Young Adult,9789202583220,Alder & Finch,2014,8,B03,False
+BK0405,The Hidden Lantern,Farah Reddy,Fantasy,9780460299655,Penrose House,2005,8,B01,False
+BK0406,The Lost Harbor,Manish Smith,Young Adult,9783236666068,Penrose House,1986,7,B03,True
+BK0407,The Silent Kingdom,Isha Sen,Mystery,9786527424197,Lakeshore Books,2016,3,B03,False
+BK0408,The Hollow Theory,Noah Chatterjee,Fantasy,9783703607852,Penrose House,1995,2,B01,False
+BK0409,The Iron Horizon,Maria Mukherjee,Fiction,9787376000020,Penrose House,2024,3,B03,False
+BK0410,The Endless Letter,Liam Chatterjee,Self-Help,9789913765966,Alder & Finch,2020,6,B01,True
+BK0411,The Burning Letter,Arjun Das,Mystery,9785525931579,Alder & Finch,1993,7,B04,True
+BK0412,The Winter Season,Debasmita Gupta,Science Fiction,9785724437831,Meridian Publishing,2010,8,B01,True
+BK0413,The Last Promise,Sneha Khan,Children,9788892777894,Meridian Publishing,2000,6,B01,False
+BK0414,The Bright Atlas,Olivia Gupta,History,9780188032365,Northwind Press,2010,6,B02,False
+BK0415,The Silent Mirror,Rohan Iyer,Fiction,9784466013498,Penrose House,2008,8,B04,False
+BK0416,The Last Cipher,Kabir Joshi,Fiction,9786014561845,Northwind Press,1997,6,B04,False
+BK0417,The Burning Empire,Joseph Dutta,History,9780852330988,Meridian Publishing,2012,2,B03,True
+BK0418,The Secret Atlas,Manish Bose,Science Fiction,9783544547018,Lakeshore Books,1995,5,B01,False
+BK0419,The Quiet Bridge,Aditya Reddy,Mystery,9788834027341,Penrose House,2023,3,B02,True
+BK0420,The Broken Voyage,Ananya Ghosh,Science,9784755922649,Penrose House,2024,6,B04,True
+BK0421,The Bright Archive,Siddharth Sharma,Mystery,9780134844145,Penrose House,1991,6,B01,False
+BK0422,The Forgotten Machine,Siddharth Joshi,Biography,9785641116883,Alder & Finch,2015,3,B04,True
+BK0423,The Hollow Horizon,Priya Ghosh,Fantasy,9780606386748,Meridian Publishing,2024,3,B02,False
+BK0424,The Lost Mirror,Vikram Patel,Mystery,9785634830334,Lakeshore Books,1990,1,B01,False
+BK0425,The Distant Echo,Ananya Nair,Fiction,9780134033022,Lakeshore Books,2016,3,B04,False
+BK0426,The Silent Forest,Joseph Smith,Mystery,9781705685578,Alder & Finch,2024,7,B01,False
+BK0427,The Winter Map,Riya Reddy,Fiction,9782740691095,Northwind Press,1994,6,B02,False
+BK0428,The Lost Garden,Manish Roy,Science Fiction,9782733251330,Lakeshore Books,2009,8,B01,True
+BK0429,The Hollow Shadow,Aditya Reddy,Young Adult,9787090303605,Alder & Finch,2018,8,B03,False
+BK0430,The Burning Atlas,Farah Gupta,Children,9787416104207,Penrose House,1999,7,B01,False
+BK0431,The Lost Bridge,Siddharth Roy,Fantasy,9785944803728,Alder & Finch,1994,2,B01,False
+BK0432,The Golden City,Vikram Iyer,Biography,9782482902559,Meridian Publishing,2001,3,B03,True
+BK0433,The Golden Voyage,Rohan Gupta,Biography,9789663860834,Penrose House,1999,1,B05,True
+BK0434,The Silent Library,Debasmita Joshi,Children,9784823030584,Lakeshore Books,2015,1,B01,False
+BK0435,The Glass Echo,Olivia Sharma,Mystery,9789905538305,Penrose House,2000,2,B03,False
+BK0436,The Hidden Shadow,Imran Sen,Science Fiction,9782357230356,Penrose House,2000,3,B05,False
+BK0437,The Quiet Archive,Neha Iyer,Science Fiction,9782056050467,Penrose House,2024,1,B02,False
+BK0438,The Midnight River,Rahul Joshi,Fiction,9787728337307,Lakeshore Books,2009,7,B03,True
+BK0439,The Distant Forest,Maria Mehta,Science Fiction,9786516155791,Meridian Publishing,2024,5,B05,False
+BK0440,The Winter Lantern,Pooja Mehta,Young Adult,9781591443624,Alder & Finch,2014,6,B04,True
+BK0441,The Endless Atlas,Rohan Reddy,Young Adult,9788308277509,Lakeshore Books,2022,6,B02,True
+BK0442,The Lost Map,Diya Brown,Fiction,9786487716203,Alder & Finch,1993,8,B04,False
+BK0443,The Quiet Storm,Liam Ghosh,Romance,9781175317651,Lakeshore Books,2024,2,B04,False
+BK0444,The Iron Machine,Priya Bose,Fantasy,9781109369934,Meridian Publishing,2024,3,B03,False
+BK0445,The Endless Forest,Riya Joshi,Romance,9784075357068,Penrose House,1986,3,B03,False
+BK0446,The Winter Bridge,Pooja Patel,Biography,9787607745612,Alder & Finch,1999,5,B05,False
+BK0447,The Silent Bridge,Rohan Iyer,Fiction,9787924912026,Meridian Publishing,2002,5,B05,False
+BK0448,The Secret Machine,Pooja Gupta,Children,9783988775907,Penrose House,2002,7,B05,True
+BK0449,The Burning Horizon,Pooja Iyer,Business,9781326706204,Lakeshore Books,2017,5,B04,True
+BK0450,The Midnight Orchard,Noah Khan,Science,9785239398357,Northwind Press,2014,2,B02,False
+BK0451,The Broken Archive,Maria Khan,Technology,9784431037213,Lakeshore Books,1993,5,B01,False
+BK0452,The Winter Echo,Neha Reddy,History,9785221328930,Meridian Publishing,2010,8,B01,False
+BK0453,The Midnight Mirror,Isha Singh,Fantasy,9780345332560,Lakeshore Books,2025,5,B05,True
+BK0454,The Midnight Letter,Priya Sen,Mystery,9784665563534,Northwind Press,2003,5,B02,False
+BK0455,The Hidden City,Kabir Gupta,Biography,9781312459083,Northwind Press,2023,2,B01,False
+BK0456,The Hidden Tide,Sourav Joshi,Fiction,9787691908643,Meridian Publishing,2012,1,B02,False
+BK0457,The Quiet Mirror,Neha Das,Children,9780879798472,Lakeshore Books,2023,2,B01,False
+BK0458,The Bright Garden,Aarav Roy,Romance,9787646264390,Penrose House,2022,1,B03,False
+BK0459,The Lost Empire,Joseph Sharma,Fantasy,9787221118950,Alder & Finch,1985,4,B03,True
+BK0460,The Lost Island,Liam Mehta,Science Fiction,9788659437576,Northwind Press,2018,8,B02,False
+BK0461,The Glass Orchard,Aarav Nair,Business,9788304682788,Lakeshore Books,1992,4,B04,False
+BK0462,The Burning Promise,Arjun Smith,Mystery,9788963472656,Penrose House,2019,6,B03,True
+BK0463,The Quiet Echo,Siddharth Nair,Mystery,9784707889306,Alder & Finch,2018,7,B05,False
+BK0464,The Bright Tide,Vikram Chatterjee,Mystery,9780275671754,Penrose House,1995,7,B04,False
+BK0465,The Endless Garden,Aarav Patel,Technology,9784553213259,Lakeshore Books,1987,6,B01,False
+BK0466,The Golden Theory,Kabir Reddy,Business,9781309724795,Alder & Finch,2002,7,B02,False
+BK0467,The Hidden Orchard,Sourav Roy,Mystery,9782666070985,Alder & Finch,1997,3,B04,False
+BK0468,The Quiet Compass,Kabir Khan,Young Adult,9786082279455,Alder & Finch,2008,4,B03,True
+BK0469,The Distant Archive,Maria Singh,Science Fiction,9782593778797,Alder & Finch,1988,4,B04,False
+BK0470,The Silent Season,Kabir Banerjee,Science,9789788957931,Penrose House,1986,7,B02,False
+BK0471,The Burning Echo,Joseph Banerjee,Fiction,9788647042295,Alder & Finch,2003,4,B01,False
+BK0472,The Last Island,Tanvi Brown,History,9781329233175,Penrose House,2017,8,B04,False
+BK0473,The Distant Empire,Riya Gupta,Science,9784360952581,Alder & Finch,1998,2,B04,True
+BK0474,The Hidden Promise,Arjun Sharma,History,9785585778372,Alder & Finch,1998,2,B04,False
+BK0475,The Last Mirror,Kabir Smith,Mystery,9788925807881,Meridian Publishing,1991,6,B03,True
+BK0476,The Glass Letter,Kabir Sharma,Children,9787707690952,Meridian Publishing,1996,7,B01,True
+BK0477,The Glass Forest,Joseph Gupta,Business,9783793961580,Lakeshore Books,1997,6,B04,False
+BK0478,The Hollow Atlas,Rahul Joshi,Romance,9780050910279,Alder & Finch,1995,3,B04,False
+BK0479,The Bright City,Pooja Smith,Science,9782577188753,Penrose House,1999,1,B04,False
+BK0480,The Endless Bridge,Karan Joshi,Children,9788857370955,Northwind Press,1996,3,B01,False
+BK0481,The Silent Horizon,Liam Roy,Mystery,9781508748810,Lakeshore Books,2013,4,B04,True
+BK0482,The Burning Map,Vikram Brown,Children,9782055509950,Lakeshore Books,1999,4,B04,False
+BK0483,The Hidden Library,Arjun Sharma,Science Fiction,9783772895350,Penrose House,2016,8,B05,True
+BK0484,The Endless Horizon,Tanvi Brown,Children,9785005595983,Northwind Press,2010,7,B03,False
+BK0485,The Silent Tide,Rohan Dutta,Fiction,9789451252502,Northwind Press,2011,7,B04,False
+BK0486,The Crimson Machine,Joseph Smith,Science Fiction,9786698806222,Alder & Finch,2009,1,B03,False
+BK0487,The Crimson City,Aditya Patel,History,9784151561187,Northwind Press,2023,2,B04,True
+BK0488,The Winter Letter,Pooja Mukherjee,History,9782829160140,Lakeshore Books,1995,4,B04,False
+BK0489,The Forgotten Signal,Maria Mehta,Children,9784209991333,Meridian Publishing,2026,5,B04,False
+BK0490,The Quiet Machine,Karan Ghosh,Business,9784542993253,Alder & Finch,1993,6,B05,False
+BK0491,The Midnight Archive,Debasmita Ghosh,Fiction,9789401033881,Lakeshore Books,1990,3,B01,True
+BK0492,The Distant Compass,Maria Smith,Science Fiction,9789534418002,Alder & Finch,2019,1,B04,True
+BK0493,The Crimson Season,Noah Reddy,Fantasy,9781033188759,Northwind Press,2022,3,B04,False
+BK0494,The Secret Bridge,Imran Iyer,Romance,9783407067263,Penrose House,1988,7,B03,True
+BK0495,The Iron Atlas,Diya Khan,History,9783527348249,Alder & Finch,2010,8,B03,False
+BK0496,The Last Harbor,Liam Banerjee,Children,9783129782837,Lakeshore Books,2006,8,B04,False
+BK0497,The Glass Archive,Siddharth Singh,Self-Help,9788296771722,Penrose House,1994,5,B03,True
+BK0498,The Broken Orchard,Aditya Mukherjee,Fiction,9781193347558,Meridian Publishing,2006,1,B03,False
+BK0499,The Golden Promise,Imran Sen,Romance,9784796026423,Northwind Press,2013,8,B05,False
+BK0500,The Hollow Kingdom,Imran Joshi,Science,9780270838285,Lakeshore Books,2009,2,B04,True
+BK0501,The Endless Empire,Isha Ghosh,Romance,9788072309695,Meridian Publishing,2006,3,B02,False
+BK0502,The Forgotten Empire,Ananya Khan,Fiction,9781341995576,Lakeshore Books,2022,8,B05,True
+BK0503,The Secret Map,Pooja Mehta,Fantasy,9780578585346,Northwind Press,1994,5,B02,False
+BK0504,The Hollow City,Rohan Sen,Fantasy,9788226736029,Alder & Finch,2011,2,B01,False
+BK0505,The Winter Empire,Neha Paul,Mystery,9785822998384,Penrose House,1998,5,B05,False
+BK0506,The Glass Garden,Pooja Chatterjee,Self-Help,9788843944691,Penrose House,2025,1,B02,True
+BK0507,The Endless Season,Sourav Dutta,Science Fiction,9789403465142,Alder & Finch,1995,3,B02,False
+BK0508,The Lost Shadow,Kabir Ghosh,Biography,9782781643727,Northwind Press,2021,8,B02,True
+BK0509,The Lost Promise,Aarav Roy,History,9784078571337,Alder & Finch,2011,3,B03,False
+BK0510,The Hidden Signal,Joseph Paul,Young Adult,9783736250709,Alder & Finch,1994,8,B01,True
+BK0511,The Glass Island,Vikram Khan,Fiction,9788598173889,Penrose House,2016,5,B01,False
+BK0512,The Hollow Storm,Siddharth Khan,Fiction,9784111953415,Meridian Publishing,1995,6,B02,True
+BK0513,The Golden Season,Meera Iyer,Science Fiction,9784709043761,Northwind Press,1996,6,B02,False
+BK0514,The Lost Lantern,Aditya Ghosh,Romance,9784540152517,Penrose House,1999,5,B01,False
+BK0515,The Hidden Storm,Emma Ghosh,Science Fiction,9781683103189,Penrose House,2013,1,B05,True
+BK0516,The Silent Signal,Priya Mehta,Self-Help,9789953428436,Penrose House,2001,8,B03,False
+BK0517,The Forgotten Cipher,Farah Gupta,Mystery,9783320049263,Meridian Publishing,2008,4,B01,True
+BK0518,The Forgotten Storm,Karan Singh,Fiction,9783156354265,Northwind Press,2008,6,B01,False
+BK0519,The Paper Orchard,Maria Paul,Fantasy,9780437396148,Penrose House,1993,5,B05,True
+BK0520,The Hidden Machine,Meera Nair,Children,9782776033380,Northwind Press,1994,6,B02,True
+BK0521,The Bright Shadow,Vikram Smith,Children,9785986946500,Meridian Publishing,1997,3,B01,False
+BK0522,The Crimson Promise,Diya Singh,Self-Help,9788136559796,Lakeshore Books,1994,7,B04,False
+BK0523,The Hollow Lantern,Sneha Chatterjee,Biography,9789658809687,Northwind Press,2023,2,B05,False
+BK0524,The Distant Machine,Isha Ghosh,Self-Help,9789211224115,Penrose House,2001,6,B02,False
+BK0525,The Winter Shadow,Imran Dutta,Technology,9787156717023,Penrose House,2002,5,B04,True
+BK0526,The Burning Forest,Rohan Mukherjee,Mystery,9788179930271,Lakeshore Books,2013,5,B03,True
+BK0527,The Last Forest,Rohan Smith,History,9786376579356,Alder & Finch,2018,1,B01,False
+BK0528,The Broken Library,Riya Ghosh,Self-Help,9788438951247,Northwind Press,2013,4,B04,False
+BK0529,The Lost Season,Farah Chatterjee,Science Fiction,9786804791801,Meridian Publishing,2008,1,B05,True
+BK0530,The Silent Harbor,Isha Ghosh,Science,9788796655528,Northwind Press,2025,5,B05,False
+BK0531,The Distant Promise,Debasmita Sharma,Romance,9783665603439,Meridian Publishing,2022,6,B01,False
+BK0532,The Broken Empire,Manish Roy,History,9788730784895,Lakeshore Books,1993,5,B03,False
+BK0533,The Crimson Library,Rohan Patel,Fiction,9782075109336,Penrose House,1991,7,B04,False
+BK0534,The Midnight Atlas,Neha Nair,Technology,9783963285930,Penrose House,2001,3,B01,False
+BK0535,The Quiet Letter,Vikram Mehta,Young Adult,9788287270336,Meridian Publishing,2020,3,B05,False
+BK0536,The Hidden Harbor,Aditya Roy,Fiction,9785647170071,Northwind Press,2025,4,B01,False
+BK0537,The Burning Shadow,Farah Banerjee,Fantasy,9787119193791,Meridian Publishing,2014,2,B02,True
+BK0538,The Lost Cipher,Rahul Das,Fiction,9783581132218,Northwind Press,2013,7,B05,True
+BK0539,The Quiet Island,Emma Singh,Fiction,9787156696600,Meridian Publishing,1994,7,B03,True
+BK0540,The Endless Promise,Joseph Singh,Business,9786936247618,Alder & Finch,2009,4,B04,False
+BK0541,The Distant Mirror,Sneha Reddy,History,9789435840087,Meridian Publishing,1992,7,B03,True
+BK0542,The Golden Atlas,Joseph Mukherjee,Fantasy,9787113235214,Northwind Press,2007,1,B04,False
+BK0543,The Winter Compass,Arjun Paul,Science Fiction,9787633518809,Lakeshore Books,1993,2,B01,False
+BK0544,The Hollow Machine,Sneha Singh,Business,9780463207043,Lakeshore Books,1988,3,B04,False
+BK0545,The Golden Harbor,Imran Banerjee,Science Fiction,9789987531934,Meridian Publishing,2025,4,B01,False
+BK0546,The Winter Tide,Liam Paul,Self-Help,9781264520843,Northwind Press,2022,2,B01,False
+BK0547,The Secret Cipher,Maria Iyer,Science Fiction,9782653991694,Northwind Press,2013,5,B03,True
+BK0548,The Forgotten Forest,Ananya Gupta,Fiction,9780169154268,Penrose House,2011,7,B03,False
+BK0549,The Secret Compass,Rahul Brown,Technology,9782033750374,Northwind Press,1995,4,B01,False
+BK0550,The Endless River,Manish Smith,Fiction,9785231006159,Penrose House,2009,4,B04,True
+BK0551,The Last Storm,Imran Joshi,Technology,9786514838721,Northwind Press,2016,1,B02,False
+BK0552,The Paper Atlas,Ananya Das,Science Fiction,9780236547778,Meridian Publishing,2007,3,B05,False
+BK0553,The Forgotten Orchard,Diya Reddy,Self-Help,9783841109187,Lakeshore Books,1996,7,B01,True
+BK0554,The Golden Horizon,Arjun Brown,Self-Help,9784999420885,Meridian Publishing,2001,7,B02,False
+BK0555,The Quiet Promise,Ananya Smith,Self-Help,9780825610099,Northwind Press,2020,1,B02,False
+BK0556,The Endless Tide,Sourav Banerjee,Fiction,9784443536369,Alder & Finch,1995,1,B03,False
+BK0557,The Hollow Forest,Diya Khan,Technology,9782051274571,Lakeshore Books,2025,7,B03,True
+BK0558,The Distant Cipher,Rahul Iyer,Business,9784042922012,Northwind Press,2016,2,B01,True
+BK0559,The Hidden Archive,Pooja Banerjee,Mystery,9782788984363,Northwind Press,2022,5,B03,False
+BK0560,The Hidden Mirror,Ananya Joshi,Science Fiction,9786917953213,Alder & Finch,2006,7,B05,False
+BK0561,The Secret Kingdom,Olivia Iyer,Children,9787525800975,Penrose House,1994,7,B01,False
+BK0562,The Forgotten Library,Emma Nair,Mystery,9789552872770,Penrose House,1986,5,B02,False
+BK0563,The Forgotten Lantern,Rahul Das,Technology,9781566384218,Northwind Press,2007,4,B03,True
+BK0564,The Silent Atlas,Aditya Roy,Self-Help,9787420115112,Northwind Press,2001,7,B04,False
+BK0565,The Lost Voyage,Riya Mukherjee,Fiction,9786417416951,Penrose House,1989,6,B01,False
+BK0566,The Lost Echo,Meera Gupta,Biography,9783599985677,Alder & Finch,2024,7,B02,False
+BK0567,The Endless Signal,Rohan Mukherjee,Biography,9786180449043,Penrose House,2025,5,B02,False
+BK0568,The Crimson Atlas,Manish Smith,Science Fiction,9780249387887,Alder & Finch,2000,8,B04,False
+BK0569,The Lost Machine,Tanvi Mukherjee,Young Adult,9787170767633,Alder & Finch,2013,7,B01,True
+BK0570,The Glass Machine,Olivia Ghosh,Mystery,9785434526324,Alder & Finch,2002,1,B04,False
+BK0571,The Hollow Mirror,Debasmita Singh,Fantasy,9781679255768,Alder & Finch,2005,3,B03,False
+BK0572,The Quiet City,Tanvi Das,Children,9788136541570,Penrose House,2011,7,B02,False
+BK0573,The Glass Signal,Manish Singh,Mystery,9785959306201,Lakeshore Books,2002,1,B05,True
+BK0574,The Winter Kingdom,Emma Das,Children,9789725319833,Penrose House,2018,6,B05,False
+BK0575,The Endless Machine,Riya Mukherjee,Fiction,9788433450442,Northwind Press,1992,3,B05,True
+BK0576,The Glass Horizon,Sourav Roy,Romance,9783439552905,Lakeshore Books,2013,2,B05,True
+BK0577,The Winter River,Olivia Mehta,Fiction,9781732073280,Lakeshore Books,2026,5,B02,True
+BK0578,The Distant Island,Priya Das,Technology,9784110194927,Meridian Publishing,2020,8,B05,False
+BK0579,The Secret Forest,Tanvi Gupta,Children,9780108679375,Lakeshore Books,1986,8,B01,False
+BK0580,The Hidden Garden,Diya Chatterjee,Children,9785640055751,Northwind Press,1989,4,B02,False
+BK0581,The Glass Shadow,Arjun Patel,Business,9783495673968,Penrose House,2011,1,B03,False
+BK0582,The Quiet Map,Aarav Khan,Technology,9787605167530,Northwind Press,2023,8,B04,False
+BK0583,The Golden Machine,Arjun Das,Self-Help,9786647750846,Meridian Publishing,2020,8,B03,False
+BK0584,The Hidden Forest,Neha Singh,History,9789360805304,Alder & Finch,2022,5,B03,False
+BK0585,The Crimson Horizon,Kabir Roy,Young Adult,9789121125767,Penrose House,1991,6,B02,False
+BK0586,The Forgotten Tide,Diya Brown,Science,9787391617023,Penrose House,2006,5,B03,True
+BK0587,The Paper Voyage,Karan Brown,Young Adult,9786023796538,Lakeshore Books,2015,1,B03,True
+BK0588,The Glass Cipher,Liam Brown,Mystery,9781122496326,Lakeshore Books,2011,2,B03,False
+BK0589,The Winter Horizon,Siddharth Gupta,History,9782945934520,Northwind Press,2017,2,B03,False
+BK0590,The Quiet Empire,Debasmita Das,Self-Help,9782160385662,Northwind Press,1993,8,B04,False
+BK0591,The Golden Tide,Maria Nair,Mystery,9786266890253,Penrose House,2004,1,B02,True
+BK0592,The Crimson Lantern,Aarav Patel,Mystery,9786828890211,Meridian Publishing,2003,5,B01,False
+BK0593,The Paper Horizon,Isha Sharma,Business,9780402989066,Meridian Publishing,2024,3,B02,False
+BK0594,The Bright Bridge,Sourav Banerjee,Romance,9781949161960,Alder & Finch,1993,1,B03,False
+BK0595,The Lost Signal,Maria Gupta,Mystery,9782300995960,Alder & Finch,1998,8,B01,False
+BK0596,The Bright Empire,Debasmita Nair,Science Fiction,9787083126851,Alder & Finch,1985,1,B01,False
+BK0597,The Paper Archive,Ananya Mukherjee,Fantasy,9789745930169,Penrose House,1991,7,B05,False
+BK0598,The Burning Archive,Riya Joshi,Science,9787634036998,Penrose House,2026,7,B02,False
+BK0599,The Golden Letter,Vikram Nair,Young Adult,9780826986257,Penrose House,2020,7,B04,False
+BK0600,The Hollow Empire,Noah Dutta,Business,9785445091905,Meridian Publishing,1995,2,B01,False

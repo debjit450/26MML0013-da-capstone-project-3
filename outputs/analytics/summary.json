@@ -1,0 +1,38 @@
+{
+  "as_of": "2026-10-27",
+  "total_transactions": 26000,
+  "transactions_with_unknown_borrower": 474,
+  "distinct_books_borrowed": 600,
+  "avg_loan_days": 12.03,
+  "overdue_rate_pct": 1.72,
+  "late_return_rate_pct": 27.09,
+  "busiest_weekday": "Saturday",
+  "quietest_weekday": "Sunday",
+  "monthly_trend_slope_issues_per_month": 30.13,
+  "monthly_trend_r2": 0.702,
+  "top_genre": "Science Fiction",
+  "top_5_books": [
+    {
+      "title": "The Quiet Season",
+      "times_borrowed": 1908
+    },
+    {
+      "title": "The Quiet Garden",
+      "times_borrowed": 1088
+    },
+    {
+      "title": "The Crimson Promise",
+      "times_borrowed": 839
+    },
+    {
+      "title": "The Crimson Tide",
+      "times_borrowed": 633
+    },
+    {
+      "title": "The Midnight Mirror",
+      "times_borrowed": 563
+    }
+  ],
+  "members_total": 1500,
+  "busiest_branch": "B02"
+}

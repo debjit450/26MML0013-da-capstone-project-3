@@ -1,0 +1,15 @@
+apiVersion: 1
+datasources:
+  - name: LibraryDB
+    uid: library-pg
+    type: grafana-postgresql-datasource
+    access: proxy
+    url: postgres:5432
+    user: library
+    isDefault: true
+    jsonData:
+      database: library
+      sslmode: disable
+      postgresVersion: 1600
+    secureJsonData:
+      password: library

@@ -1,0 +1,50 @@
+{"log_id": "E0000001", "member_id": "M00652", "book_id": "BK0087", "timestamp": "2025-05-23T07:09:00", "device": "android", "session_minutes": 26, "pages_read": 64, "app_version": "4.8.17"}
+{"log_id": "E0000002", "member_id": "M00387", "book_id": "BK0569", "timestamp": "2025-11-03T10:24:00", "device": "kindle", "session_minutes": 36}
+{"log_id": "E0000003", "member_id": null, "book_id": "BK0081", "timestamp": "2025-02-24T11:20:00", "device": "kobo", "session_minutes": 20, "pages_read": 34, "app_version": "3.8.11"}
+{"log_id": "E0000004", "member_id": "M00440", "book_id": "BK0324", "timestamp": "2025-11-26T09:58:00", "device": "kindle", "session_minutes": 75, "pages_read": 18}
+{"log_id": "E0000005", "member_id": "M00030", "book_id": "BK0135", "timestamp": "2026-07-05T16:30:00", "device": "web", "session_minutes": 32, "pages_read": 11}
+{"log_id": "E0000006", "member_id": "M00636", "book_id": "BK0328", "timestamp": "2025-09-12T03:17:00", "device": "web", "session_minutes": 88, "pages_read": 54, "app_version": "2.8.6", "network": {"type": "mobile", "offline_sync": false}}
+{"log_id": "E0000007", "member_id": "M01422", "book_id": "BK0573", "timestamp": "2026-04-08T19:04:00", "device": "kobo", "session_minutes": 25, "pages_read": 50}
+{"log_id": "E0000008", "member_id": "M01434", "book_id": "BK0575", "timestamp": "2025-12-09T14:59:00", "device": "android", "session_minutes": 8, "pages_read": 63}
+{"log_id": "E0000009", "member_id": "M00364", "book_id": "BK0575", "timestamp": "2026-03-03T15:23:00", "device": "kobo", "session_minutes": 30}
+{"log_id": "E0000010", "member_id": null, "book_id": "BK0138", "timestamp": "2026-06-17T02:40:00", "device": "web", "session_minutes": 19, "app_version": "2.8.0"}
+{"log_id": "E0000011", "member_id": "M00890", "book_id": "BK0577", "timestamp": "2026-07-10T00:19:00", "device": "kindle", "session_minutes": 63, "pages_read": 57, "app_version": "2.0.14", "network": {"type": "wifi", "offline_sync": false}}
+{"log_id": "E0000012", "member_id": "M01319", "book_id": "BK0517", "timestamp": "2026-10-16T23:54:00", "device": "kobo", "session_minutes": 79}
+{"log_id": "E0000013", "member_id": "M00988", "book_id": "BK0040", "timestamp": "2025-04-25T14:11:00", "device": "android", "session_minutes": 41, "network": {"type": "wifi", "offline_sync": false}}
+{"log_id": "E0000014", "member_id": "M01089", "book_id": "BK0396", "timestamp": "2026-06-28T15:39:00", "device": "kindle", "session_minutes": 64, "pages_read": 36}
+{"log_id": "E0000015", "member_id": null, "book_id": "BK0150", "timestamp": "2025-05-20T01:07:00", "device": "android", "session_minutes": 34, "pages_read": 71}
+{"log_id": "E0000016", "member_id": null, "book_id": "BK0506", "timestamp": "2026-09-07T11:40:00", "device": "android", "session_minutes": 25, "pages_read": 67}
+{"log_id": "E0000017", "member_id": "M00445", "book_id": "BK0422", "timestamp": "2025-04-19T11:17:00", "device": "android", "session_minutes": 60}
+{"log_id": "E0000018", "member_id": null, "book_id": "BK0355", "timestamp": "2026-01-01T19:37:00", "device": "android", "session_minutes": 51, "pages_read": 63}
+{"log_id": "E0000019", "member_id": "M01486", "book_id": "BK0268", "timestamp": "2025-08-30T07:52:00", "device": "kobo", "session_minutes": 54, "pages_read": 23, "network": {"type": "mobile", "offline_sync": false}}
+{"log_id": "E0000020", "member_id": "M00041", "book_id": "BK0355", "timestamp": "2026-05-09T22:52:00", "device": "kobo", "session_minutes": 18, "pages_read": 11}
+{"log_id": "E0000021", "member_id": "M00950", "book_id": "BK0026", "timestamp": "2026-06-27T10:06:00", "device": "kobo", "session_minutes": 60, "pages_read": 38, "app_version": "3.2.4"}
+{"log_id": "E0000022", "member_id": "M01333", "book_id": "BK0139", "timestamp": "2025-01-01T05:42:00", "device": "kindle", "session_minutes": 20, "app_version": "2.7.18"}
+{"log_id": "E0000023", "member_id": "M00021", "book_id": "BK0433", "timestamp": "2025-02-04T20:46:00", "device": "android", "session_minutes": 16, "pages_read": 59}
+{"log_id": "E0000024", "member_id": "M00069", "book_id": "BK0237", "timestamp": "2025-10-01T14:33:00", "device": "android", "session_minutes": 22}
+{"log_id": "E0000025", "member_id": "M00044", "book_id": "BK0120", "timestamp": "2025-03-31T15:30:00", "device": "android", "session_minutes": 63, "pages_read": 5}
+{"log_id": "E0000026", "member_id": "M01476", "book_id": "BK0441", "timestamp": "2025-07-01T16:22:00", "device": "web", "session_minutes": 11, "pages_read": 76, "network": {"type": "mobile", "offline_sync": false}}
+{"log_id": "E0000027", "member_id": "M00966", "book_id": "BK0158", "timestamp": "2025-10-30T12:33:00", "device": "ios", "session_minutes": 26, "app_version": "3.7.16"}
+{"log_id": "E0000028", "member_id": "M00164", "book_id": "BK0226", "timestamp": "2025-09-18T04:34:00", "device": "kindle", "session_minutes": 107, "pages_read": 49, "app_version": "4.7.5"}
+{"log_id": "E0000029", "member_id": "M00312", "book_id": "BK0184", "timestamp": "2026-07-13T18:05:00", "device": "kobo", "session_minutes": 39, "app_version": "3.5.9"}
+{"log_id": "E0000030", "member_id": null, "book_id": "BK0587", "timestamp": "2025-10-07T04:26:00", "device": "android", "session_minutes": 31}
+{"log_id": "E0000031", "member_id": "M00080", "book_id": "BK0001", "timestamp": "2025-12-10T07:04:00", "device": "android", "session_minutes": 51, "pages_read": 6, "app_version": "4.7.13"}
+{"log_id": "E0000032", "member_id": "M01351", "book_id": "BK0049", "timestamp": "2026-09-24T18:48:00", "device": "ios", "session_minutes": 75, "pages_read": 59}
+{"log_id": "E0000033", "member_id": "M00421", "book_id": "BK0093", "timestamp": "2026-09-26T11:03:00", "device": "kindle", "session_minutes": 59}
+{"log_id": "E0000034", "member_id": "M01339", "book_id": "BK0389", "timestamp": "2025-11-20T09:47:00", "device": "android", "session_minutes": 64, "pages_read": 27}
+{"log_id": "E0000035", "member_id": "M00555", "book_id": "BK0510", "timestamp": "2025-02-11T10:27:00", "device": "kindle", "session_minutes": 41, "pages_read": 71}
+{"log_id": "E0000036", "member_id": "M00234", "book_id": "BK0028", "timestamp": "2026-07-11T11:17:00", "device": "web", "session_minutes": 83}
+{"log_id": "E0000037", "member_id": "M00022", "book_id": "BK0290", "timestamp": "2025-10-14T18:34:00", "device": "web", "session_minutes": 70, "pages_read": 42}
+{"log_id": "E0000038", "member_id": "M00448", "book_id": "BK0070", "timestamp": "2025-02-12T10:28:00", "device": "ios", "session_minutes": 54, "app_version": "2.0.15"}
+{"log_id": "E0000039", "member_id": "M01203", "book_id": "BK0064", "timestamp": "2026-04-29T05:10:00", "device": "ios", "session_minutes": 2, "app_version": "2.6.9"}
+{"log_id": "E0000040", "member_id": "M00675", "book_id": "BK0184", "timestamp": "2025-03-20T18:00:00", "device": "kindle", "session_minutes": 32, "pages_read": 82, "app_version": "4.4.19", "network": {"type": "wifi", "offline_sync": false}}
+{"log_id": "E0000041", "member_id": "M00801", "book_id": "BK0087", "timestamp": "2026-05-20T22:37:00", "device": "kindle", "session_minutes": 26, "pages_read": 85, "app_version": "4.3.2"}
+{"log_id": "E0000042", "member_id": "M00290", "book_id": "BK0053", "timestamp": "2025-05-21T18:02:00", "device": "ios", "session_minutes": 13, "pages_read": 64}
+{"log_id": "E0000043", "member_id": "M01341", "book_id": "BK0473", "timestamp": "2026-04-14T05:25:00", "device": "web", "session_minutes": 79}
+{"log_id": "E0000044", "member_id": "M00353", "book_id": "BK0358", "timestamp": "2025-07-25T04:55:00", "device": "android", "session_minutes": 116, "pages_read": 39, "network": {"type": "wifi", "offline_sync": true}}
+{"log_id": "E0000045", "member_id": "M01017", "book_id": "BK0402", "timestamp": "2025-06-08T01:06:00", "device": "android", "session_minutes": 13}
+{"log_id": "E0000046", "member_id": "M00319", "book_id": "BK0512", "timestamp": "2025-11-26T21:12:00", "device": "web", "session_minutes": 35, "pages_read": 42, "app_version": "2.7.10"}
+{"log_id": "E0000047", "member_id": "M00116", "book_id": "BK0173", "timestamp": "2025-08-12T21:52:00", "device": "android", "session_minutes": 68, "app_version": "3.7.19"}
+{"log_id": "E0000048", "member_id": "M00958", "book_id": "BK0156", "timestamp": "2025-06-19T04:51:00", "device": "kindle", "session_minutes": 53, "app_version": "2.2.12"}
+{"log_id": "E0000049", "member_id": "M00527", "book_id": "BK0292", "timestamp": "2026-01-21T08:53:00", "device": "kobo", "session_minutes": 23, "pages_read": 68, "app_version": "2.8.16", "network": {"type": "mobile", "offline_sync": false}}
+{"log_id": "E0000050", "member_id": "M01330", "book_id": "BK0494", "timestamp": "2026-01-10T10:05:00", "device": "android", "session_minutes": 35, "pages_read": 51}

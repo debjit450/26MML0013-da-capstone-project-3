@@ -1,0 +1,309 @@
+month,genre,issues
+2025-01-01,Biography,29
+2025-01-01,Business,26
+2025-01-01,Children,64
+2025-01-01,Fantasy,53
+2025-01-01,Fiction,117
+2025-01-01,History,74
+2025-01-01,Mystery,80
+2025-01-01,Poetry,11
+2025-01-01,Romance,68
+2025-01-01,Science,27
+2025-01-01,Science Fiction,149
+2025-01-01,Self-Help,62
+2025-01-01,Technology,36
+2025-01-01,Young Adult,30
+2025-02-01,Biography,23
+2025-02-01,Business,32
+2025-02-01,Children,52
+2025-02-01,Fantasy,57
+2025-02-01,Fiction,93
+2025-02-01,History,56
+2025-02-01,Mystery,91
+2025-02-01,Poetry,9
+2025-02-01,Romance,75
+2025-02-01,Science,32
+2025-02-01,Science Fiction,120
+2025-02-01,Self-Help,52
+2025-02-01,Technology,21
+2025-02-01,Young Adult,27
+2025-03-01,Biography,35
+2025-03-01,Business,26
+2025-03-01,Children,74
+2025-03-01,Fantasy,95
+2025-03-01,Fiction,135
+2025-03-01,History,86
+2025-03-01,Mystery,109
+2025-03-01,Poetry,11
+2025-03-01,Romance,92
+2025-03-01,Science,29
+2025-03-01,Science Fiction,201
+2025-03-01,Self-Help,76
+2025-03-01,Technology,40
+2025-03-01,Young Adult,57
+2025-04-01,Biography,36
+2025-04-01,Business,29
+2025-04-01,Children,89
+2025-04-01,Fantasy,79
+2025-04-01,Fiction,136
+2025-04-01,History,94
+2025-04-01,Mystery,92
+2025-04-01,Poetry,12
+2025-04-01,Romance,83
+2025-04-01,Science,46
+2025-04-01,Science Fiction,174
+2025-04-01,Self-Help,82
+2025-04-01,Technology,45
+2025-04-01,Young Adult,42
+2025-05-01,Biography,41
+2025-05-01,Business,19
+2025-05-01,Children,62
+2025-05-01,Fantasy,69
+2025-05-01,Fiction,138
+2025-05-01,History,69
+2025-05-01,Mystery,110
+2025-05-01,Poetry,12
+2025-05-01,Romance,91
+2025-05-01,Science,32
+2025-05-01,Science Fiction,193
+2025-05-01,Self-Help,83
+2025-05-01,Technology,38
+2025-05-01,Young Adult,50
+2025-06-01,Biography,37
+2025-06-01,Business,16
+2025-06-01,Children,79
+2025-06-01,Fantasy,71
+2025-06-01,Fiction,109
+2025-06-01,History,74
+2025-06-01,Mystery,93
+2025-06-01,Poetry,11
+2025-06-01,Romance,73
+2025-06-01,Science,37
+2025-06-01,Science Fiction,163
+2025-06-01,Self-Help,66
+2025-06-01,Technology,39
+2025-06-01,Young Adult,23
+2025-07-01,Biography,46
+2025-07-01,Business,25
+2025-07-01,Children,67
+2025-07-01,Fantasy,84
+2025-07-01,Fiction,143
+2025-07-01,History,76
+2025-07-01,Mystery,98
+2025-07-01,Poetry,9
+2025-07-01,Romance,76
+2025-07-01,Science,44
+2025-07-01,Science Fiction,203
+2025-07-01,Self-Help,80
+2025-07-01,Technology,28
+2025-07-01,Young Adult,54
+2025-08-01,Biography,34
+2025-08-01,Business,24
+2025-08-01,Children,73
+2025-08-01,Fantasy,72
+2025-08-01,Fiction,138
+2025-08-01,History,91
+2025-08-01,Mystery,87
+2025-08-01,Poetry,9
+2025-08-01,Romance,78
+2025-08-01,Science,39
+2025-08-01,Science Fiction,207
+2025-08-01,Self-Help,88
+2025-08-01,Technology,39
+2025-08-01,Young Adult,42
+2025-09-01,Biography,38
+2025-09-01,Business,25
+2025-09-01,Children,87
+2025-09-01,Fantasy,64
+2025-09-01,Fiction,147
+2025-09-01,History,56
+2025-09-01,Mystery,85
+2025-09-01,Poetry,8
+2025-09-01,Romance,84
+2025-09-01,Science,38
+2025-09-01,Science Fiction,178
+2025-09-01,Self-Help,80
+2025-09-01,Technology,32
+2025-09-01,Young Adult,46
+2025-10-01,Biography,44
+2025-10-01,Business,34
+2025-10-01,Children,108
+2025-10-01,Fantasy,100
+2025-10-01,Fiction,171
+2025-10-01,History,113
+2025-10-01,Mystery,131
+2025-10-01,Poetry,18
+2025-10-01,Romance,102
+2025-10-01,Science,46
+2025-10-01,Science Fiction,224
+2025-10-01,Self-Help,102
+2025-10-01,Technology,56
+2025-10-01,Young Adult,67
+2025-11-01,Biography,54
+2025-11-01,Business,31
+2025-11-01,Children,79
+2025-11-01,Fantasy,108
+2025-11-01,Fiction,185
+2025-11-01,History,113
+2025-11-01,Mystery,130
+2025-11-01,Poetry,13
+2025-11-01,Romance,93
+2025-11-01,Science,53
+2025-11-01,Science Fiction,241
+2025-11-01,Self-Help,119
+2025-11-01,Technology,59
+2025-11-01,Young Adult,62
+2025-12-01,Biography,51
+2025-12-01,Business,33
+2025-12-01,Children,81
+2025-12-01,Fantasy,80
+2025-12-01,Fiction,147
+2025-12-01,History,77
+2025-12-01,Mystery,112
+2025-12-01,Poetry,4
+2025-12-01,Romance,86
+2025-12-01,Science,42
+2025-12-01,Science Fiction,217
+2025-12-01,Self-Help,83
+2025-12-01,Technology,40
+2025-12-01,Young Adult,57
+2026-01-01,Biography,51
+2026-01-01,Business,33
+2026-01-01,Children,109
+2026-01-01,Fantasy,110
+2026-01-01,Fiction,169
+2026-01-01,History,103
+2026-01-01,Mystery,116
+2026-01-01,Poetry,17
+2026-01-01,Romance,92
+2026-01-01,Science,44
+2026-01-01,Science Fiction,212
+2026-01-01,Self-Help,107
+2026-01-01,Technology,42
+2026-01-01,Young Adult,57
+2026-02-01,Biography,45
+2026-02-01,Business,37
+2026-02-01,Children,87
+2026-02-01,Fantasy,83
+2026-02-01,Fiction,155
+2026-02-01,History,78
+2026-02-01,Mystery,90
+2026-02-01,Poetry,6
+2026-02-01,Romance,81
+2026-02-01,Science,49
+2026-02-01,Science Fiction,202
+2026-02-01,Self-Help,92
+2026-02-01,Technology,29
+2026-02-01,Young Adult,56
+2026-03-01,Biography,70
+2026-03-01,Business,43
+2026-03-01,Children,126
+2026-03-01,Fantasy,125
+2026-03-01,Fiction,189
+2026-03-01,History,128
+2026-03-01,Mystery,160
+2026-03-01,Poetry,15
+2026-03-01,Romance,112
+2026-03-01,Science,50
+2026-03-01,Science Fiction,284
+2026-03-01,Self-Help,96
+2026-03-01,Technology,60
+2026-03-01,Young Adult,82
+2026-04-01,Biography,63
+2026-04-01,Business,37
+2026-04-01,Children,97
+2026-04-01,Fantasy,121
+2026-04-01,Fiction,193
+2026-04-01,History,141
+2026-04-01,Mystery,124
+2026-04-01,Poetry,15
+2026-04-01,Romance,124
+2026-04-01,Science,56
+2026-04-01,Science Fiction,278
+2026-04-01,Self-Help,119
+2026-04-01,Technology,44
+2026-04-01,Young Adult,65
+2026-05-01,Biography,60
+2026-05-01,Business,35
+2026-05-01,Children,95
+2026-05-01,Fantasy,85
+2026-05-01,Fiction,187
+2026-05-01,History,103
+2026-05-01,Mystery,134
+2026-05-01,Poetry,21
+2026-05-01,Romance,95
+2026-05-01,Science,48
+2026-05-01,Science Fiction,245
+2026-05-01,Self-Help,104
+2026-05-01,Technology,49
+2026-05-01,Young Adult,63
+2026-06-01,Biography,42
+2026-06-01,Business,19
+2026-06-01,Children,107
+2026-06-01,Fantasy,108
+2026-06-01,Fiction,158
+2026-06-01,History,118
+2026-06-01,Mystery,129
+2026-06-01,Poetry,5
+2026-06-01,Romance,88
+2026-06-01,Science,47
+2026-06-01,Science Fiction,253
+2026-06-01,Self-Help,99
+2026-06-01,Technology,45
+2026-06-01,Young Adult,70
+2026-07-01,Biography,43
+2026-07-01,Business,45
+2026-07-01,Children,100
+2026-07-01,Fantasy,111
+2026-07-01,Fiction,186
+2026-07-01,History,126
+2026-07-01,Mystery,128
+2026-07-01,Poetry,15
+2026-07-01,Romance,105
+2026-07-01,Science,50
+2026-07-01,Science Fiction,251
+2026-07-01,Self-Help,120
+2026-07-01,Technology,53
+2026-07-01,Young Adult,60
+2026-08-01,Biography,71
+2026-08-01,Business,43
+2026-08-01,Children,98
+2026-08-01,Fantasy,97
+2026-08-01,Fiction,166
+2026-08-01,History,110
+2026-08-01,Mystery,129
+2026-08-01,Poetry,14
+2026-08-01,Romance,114
+2026-08-01,Science,42
+2026-08-01,Science Fiction,264
+2026-08-01,Self-Help,112
+2026-08-01,Technology,40
+2026-08-01,Young Adult,65
+2026-09-01,Biography,66
+2026-09-01,Business,44
+2026-09-01,Children,121
+2026-09-01,Fantasy,97
+2026-09-01,Fiction,211
+2026-09-01,History,97
+2026-09-01,Mystery,140
+2026-09-01,Poetry,14
+2026-09-01,Romance,111
+2026-09-01,Science,56
+2026-09-01,Science Fiction,239
+2026-09-01,Self-Help,85
+2026-09-01,Technology,55
+2026-09-01,Young Adult,67
+2026-10-01,Biography,55
+2026-10-01,Business,46
+2026-10-01,Children,115
+2026-10-01,Fantasy,104
+2026-10-01,Fiction,206
+2026-10-01,History,128
+2026-10-01,Mystery,140
+2026-10-01,Poetry,8
+2026-10-01,Romance,118
+2026-10-01,Science,53
+2026-10-01,Science Fiction,272
+2026-10-01,Self-Help,127
+2026-10-01,Technology,65
+2026-10-01,Young Adult,64

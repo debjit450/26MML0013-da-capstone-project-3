@@ -1,0 +1,272 @@
+[
+ {
+  "feedback_id": "F00001",
+  "member_id": "M00186",
+  "book_id": "BK0146",
+  "rating": 5,
+  "comment": "Easy to borrow and return, the app works well.",
+  "channel": "app",
+  "submitted_at": "2025-02-12"
+ },
+ {
+  "feedback_id": "F00002",
+  "member_id": "M00789",
+  "book_id": null,
+  "rating": 5,
+  "comment": "The e-book reader is smooth and I finished two novels this month.",
+  "channel": "web",
+  "submitted_at": "2025-06-01"
+ },
+ {
+  "feedback_id": "F00003",
+  "member_id": "M00631",
+  "book_id": "BK0492",
+  "rating": 4,
+  "comment": "Loved the new releases section.",
+  "channel": "kiosk",
+  "submitted_at": "2025-10-18"
+ },
+ {
+  "feedback_id": "F00004",
+  "member_id": null,
+  "book_id": null,
+  "rating": 4,
+  "comment": "Loved the new releases section.",
+  "channel": "app",
+  "submitted_at": "2026-09-10"
+ },
+ {
+  "feedback_id": "F00005",
+  "member_id": "M01146",
+  "book_id": null,
+  "rating": 5,
+  "comment": "Great selection and the staff were very helpful.",
+  "channel": "app",
+  "submitted_at": "2026-05-17"
+ },
+ {
+  "feedback_id": "F00006",
+  "member_id": "M00693",
+  "book_id": null,
+  "rating": 5,
+  "comment": "The e-book reader is smooth and I finished two novels this month.",
+  "channel": "app",
+  "submitted_at": "2026-04-11"
+ },
+ {
+  "feedback_id": "F00007",
+  "member_id": "M01259",
+  "book_id": null,
+  "rating": 2,
+  "comment": "The e-book app keeps crashing on my phone.",
+  "channel": "app",
+  "submitted_at": "2026-06-28"
+ },
+ {
+  "feedback_id": "F00008",
+  "member_id": "M01255",
+  "book_id": null,
+  "rating": 2,
+  "comment": "Waiting list is far too long.",
+  "channel": "kiosk",
+  "submitted_at": "2026-02-27"
+ },
+ {
+  "feedback_id": "F00009",
+  "member_id": "M00138",
+  "book_id": "BK0243",
+  "rating": 5,
+  "comment": "Wonderful reading space, very quiet.",
+  "channel": "paper",
+  "submitted_at": "2025-12-31"
+ },
+ {
+  "feedback_id": "F00010",
+  "member_id": null,
+  "book_id": "BK0108",
+  "rating": 5,
+  "comment": "Wonderful reading space, very quiet.",
+  "channel": "web",
+  "submitted_at": "2025-11-28"
+ },
+ {
+  "feedback_id": "F00011",
+  "member_id": "M01189",
+  "book_id": null,
+  "rating": 4,
+  "comment": "Loved the new releases section.",
+  "channel": "kiosk",
+  "submitted_at": "2026-01-19"
+ },
+ {
+  "feedback_id": "F00012",
+  "member_id": "M01289",
+  "book_id": null,
+  "rating": 4,
+  "comment": "Great selection and the staff were very helpful.",
+  "channel": "app",
+  "submitted_at": "2025-03-23"
+ },
+ {
+  "feedback_id": "F00013",
+  "member_id": "M00256",
+  "book_id": "BK0470",
+  "rating": 3,
+  "comment": "Would like more copies of popular titles.",
+  "channel": "app",
+  "submitted_at": "2026-08-20"
+ },
+ {
+  "feedback_id": "F00014",
+  "member_id": "M00405",
+  "book_id": "BK0118",
+  "rating": 5,
+  "comment": "Easy to borrow and return, the app works well.",
+  "channel": "web",
+  "submitted_at": "2026-05-14"
+ },
+ {
+  "feedback_id": "F00015",
+  "member_id": "M00816",
+  "book_id": null,
+  "rating": 4,
+  "comment": "Easy to borrow and return, the app works well.",
+  "channel": "paper",
+  "submitted_at": "2025-09-22"
+ },
+ {
+  "feedback_id": "F00016",
+  "member_id": "M00949",
+  "book_id": "BK0476",
+  "rating": 3,
+  "comment": "Would like more copies of popular titles.",
+  "channel": "web",
+  "submitted_at": "2025-01-14"
+ },
+ {
+  "feedback_id": "F00017",
+  "member_id": "M00402",
+  "book_id": "BK0178",
+  "rating": 5,
+  "comment": "Great selection and the staff were very helpful.",
+  "channel": "web",
+  "submitted_at": "2025-05-23"
+ },
+ {
+  "feedback_id": "F00018",
+  "member_id": "M00405",
+  "book_id": null,
+  "rating": 3,
+  "comment": "Average experience overall.",
+  "channel": "paper",
+  "submitted_at": "2026-04-27"
+ },
+ {
+  "feedback_id": "F00019",
+  "member_id": "M00130",
+  "book_id": null,
+  "rating": 2,
+  "comment": "Late fee notification came too late.",
+  "channel": "kiosk",
+  "submitted_at": "2026-04-27"
+ },
+ {
+  "feedback_id": "F00020",
+  "member_id": "M01209",
+  "book_id": null,
+  "rating": 3,
+  "comment": "",
+  "channel": "paper",
+  "submitted_at": "2025-12-31"
+ },
+ {
+  "feedback_id": "F00021",
+  "member_id": null,
+  "book_id": null,
+  "rating": 5,
+  "comment": "The e-book reader is smooth and I finished two novels this month.",
+  "channel": "kiosk",
+  "submitted_at": "2025-08-11"
+ },
+ {
+  "feedback_id": "F00022",
+  "member_id": "M00126",
+  "book_id": null,
+  "rating": 4,
+  "comment": "Loved the new releases section.",
+  "channel": "web",
+  "submitted_at": "2026-02-02"
+ },
+ {
+  "feedback_id": "F00023",
+  "member_id": null,
+  "book_id": null,
+  "rating": null,
+  "comment": "Average experience overall.",
+  "channel": "web",
+  "submitted_at": "2026-01-26"
+ },
+ {
+  "feedback_id": "F00024",
+  "member_id": "M01026",
+  "book_id": null,
+  "rating": 3,
+  "comment": "Would like more copies of popular titles.",
+  "channel": "web",
+  "submitted_at": "2025-06-01"
+ },
+ {
+  "feedback_id": "F00025",
+  "member_id": null,
+  "book_id": "BK0244",
+  "rating": 4,
+  "comment": "Easy to borrow and return, the app works well.",
+  "channel": "web",
+  "submitted_at": "2025-08-21"
+ },
+ {
+  "feedback_id": "F00026",
+  "member_id": "M00889",
+  "book_id": null,
+  "rating": 2,
+  "comment": "Some books were in poor condition with torn pages.",
+  "channel": "paper",
+  "submitted_at": "2026-02-21"
+ },
+ {
+  "feedback_id": "F00027",
+  "member_id": "M00900",
+  "book_id": null,
+  "rating": null,
+  "comment": "The e-book app keeps crashing on my phone.",
+  "channel": "paper",
+  "submitted_at": "2025-01-09"
+ },
+ {
+  "feedback_id": "F00028",
+  "member_id": null,
+  "book_id": "BK0457",
+  "rating": null,
+  "comment": "The e-book reader is smooth and I finished two novels this month.",
+  "channel": "web",
+  "submitted_at": "2026-10-26"
+ },
+ {
+  "feedback_id": "F00029",
+  "member_id": "M00975",
+  "book_id": "BK0185",
+  "rating": 3,
+  "comment": "Would like more copies of popular titles.",
+  "channel": "kiosk",
+  "submitted_at": "2025-09-15"
+ },
+ {
+  "feedback_id": "F00030",
+  "member_id": null,
+  "book_id": null,
+  "rating": 2,
+  "comment": "",
+  "channel": "web",
+  "submitted_at": "2025-12-17"
+ }
+]
